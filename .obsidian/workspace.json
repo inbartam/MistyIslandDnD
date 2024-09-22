@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Gods.md"
+                "file": "Lore/Untitled/The Order of Hammers.md"
               }
             }
           },
@@ -207,10 +207,10 @@
   },
   "active": "62f3f2344a1e821d",
   "lastOpenFiles": [
-    "Lore/Untitled/The Order of Hammers.md",
-    "Lore/The Gods.md",
-    "Lore/The Titans.md",
     "Lore/The World Creation.md",
+    "Lore/The Gods.md",
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/The Titans.md",
     "Lore/Untitled/Orders.md",
     "Lore/test 2.md",
     "Lore/Untitled.md",
