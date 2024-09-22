@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/test 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md"
+                "file": "Lore/test 2.md"
               }
             }
           },
@@ -173,14 +173,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "68a977e7181c6f63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +205,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4fc0bb8c700bfd12",
+  "active": "62f3f2344a1e821d",
   "lastOpenFiles": [
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/test 2.md",
     "Lore/The Gods.md",
     "Lore/Untitled.md",
     "z_tamplates/God Template.md",
     "Lore/The World Creation.md",
     "Untitled",
-    "Lore/Untitled/The Order of Hammers.md",
     "Lore/Untitled/Orders.md",
     "Sources/The Gods-20240922003216370.webp",
     "Sources/The Order of Hammers-20240922002651522.webp",
