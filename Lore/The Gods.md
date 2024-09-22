@@ -3,9 +3,8 @@ The gods of this world are divided into two types - the Old Gods and the New God
 | Alignment   | Lawful                 | Neutral                  | Chaotic                        |
 | ----------- | ---------------------- | ------------------------ | ------------------------------ |
 | **Good**    | Valynor, Auriel, Borul | Rammas, Veridia, Lagaris | Ellaris, Jeros, Feiros         |
-| **Neutral** | Ikur, Yirko            | Solthar, Yirko           | Zyther, Mondra, Feiros, Yirko  |
+| **Neutral** | Ikur, Yarko            | Solthar, Yarko           | Zyther, Mondra, Feiros, Yarko  |
 | **Evil**    | Herko                  | Lardan, Nexira           | Xalara, Arthea, Demron, Feiros |
-
 
 
 
@@ -136,10 +135,10 @@ Demron, the god of fear, wields terror and chaos as his weapons. As the son of I
     <td>The Inspirer</td>
   </tr>
   <tr>
-    <td>Yirko</td>
+    <td>Yarko</td>
     <td>Time</td>
     <td>N</td>
-    <td>The Timekeeper</td>
+    <td>The Whisperer of Time</td>
   </tr>
   <tr>
     <td>Feiros</td>
@@ -151,7 +150,7 @@ Demron, the god of fear, wields terror and chaos as his weapons. As the son of I
     <td>Herko</td>
     <td>War</td>
     <td>LE</td>
-    <td>The Commander</td>
+    <td>The Iron Tyrant</td>
   </tr>
 	<tr>
 	<td>Arthea</td>
@@ -163,19 +162,56 @@ Demron, the god of fear, wields terror and chaos as his weapons. As the son of I
 </table>
 
 
-> [!Gods to add and pulish] Title
-> 	Herko, Yarko, Feiros, Arthea
-> 		Write who they are and how they rasied to godhood
-> 		
 
 ### **Lagaris – The Inspirer**
 
 **Domain**: Hope and Courage  
 **Alignment**: NG (Neutral Good)  
 **Title**: The Inspirer  
-**Description**: Lagaris was once a humble bard who wandered the lands, spreading songs of hope and courage to those on the brink of despair. His voice could rally armies, bring peace to the troubled, and ignite the flames of resistance in oppressed hearts. His rise to power came when, during a hopeless siege, his song lifted the spirits of a broken army, turning the tide of battle. The sheer belief in him, both as a hero and a symbol, granted him immense power. Now as a living god, Lagaris continues to inspire mortals, his voice a beacon of light for those lost in the shadows.
+**Description**: Lagaris was once a humble bard who wandered the lands, spreading songs of hope and courage to those on the brink of despair. His voice could rally armies, bring peace to the troubled, and ignite the flames of resistance in oppressed hearts. His rise to power came when, during a hopeless siege against an evil king, he went out alone and used his voice to fight against an army. The sheer belief in him, both as a hero and a symbol, granted him immense power. Now as a living god, Lagaris continues to inspire mortals, his voice a beacon of light for those lost in the shadows.
 
 **Worship**: Followers of Lagaris gather in times of crisis to sing hymns and songs of courage, believing that their collective voice can summon his power. They often carry small musical instruments, and bards are seen as sacred, embodying the spirit of Lagaris. Temples of Lagaris are open spaces where songs are shared, and prayers are spoken as a chorus.
+
+
+### ***Yarko - The Whisperer of Time*:**
+***Alignment:*** N (Neutral)
+***Domain:*** Time
+***Title:*** The Whisperer of Time
+***Description:*** Yarko began as a simple tree, growing in the heart of a forgotten forest. Over countless ages, as empires rose and fell, Yarko stood silently, witnessing the passage of time in ways no mortal could comprehend. Slowly, the tree became an object of reverence—mortals began to gather under its branches, seeking wisdom and solace in its ancient presence. As generations passed, people started to pray to the tree for guidance in navigating time’s ever-flowing currents. Their faith and worship awoke a dormant power within Yarko, transforming it into a sentient being, able to bend time itself.
+
+Now, as the **Whisperer of Time**, Yarko’s consciousness spans the entire temporal plane, able to influence the flow of time—slowing it, accelerating it, or bending it to reveal hidden futures. It does not speak in words, but through the rustling of leaves and the shifting of its roots, Yarko communicates with those who seek its wisdom. Mortals who come to Yarko often leave feeling that they’ve glimpsed eternity, though few truly understand the gravity of what they’ve learned.
+
+***Worship:*** Yarko’s followers are known as the **Timekeepers**, mortals who seek to understand the nature of time and how to wield it. They make pilgrimages to the great tree, offering tokens of their past—a lock of hair, an ancient coin, or a piece of family heirloom—hoping to receive Yarko’s whispers in return. Priests of Yarko tend to its roots and gather its fallen leaves, which they believe hold pieces of forgotten time. On rare occasions, Yarko may grant a chosen few the ability to bend time for a moment, but these gifts are always fleeting and come with a price. The worshipers live by the belief that time is both a gift and a curse, and that Yarko holds the key to mastering its flow.
+
+
+### ***Feiros - The Weaver of Fate*:**
+***Alignment:*** C (Chaotic)
+***Domain:*** Fate
+***Title:*** The Weaver of Fate
+***Description:*** Feiros, once an elf and a powerful archmage, defied the natural order by tapping into the very fabric of destiny itself. Obsessed with understanding the nature of fate, he used forbidden arcane knowledge to manipulate the threads of existence. His quest for power led him to an ultimate act of defiance—splitting his being into three manifestations. These three bodies act independently yet remain bound by a single mind, allowing Feiros to simultaneously influence the destinies of all mortals, often in unpredictable ways.
+
+***Worship:** Feiros’ followers, known as the **Fatebound**, worship his three distinct forms, each representing a different aspect of fate. Temples are built with three shrines where offerings are made to guide one's path. Worshipers bring thread, cloth, and personal tokens tied to their destinies, believing that through ritual weaving, they can influence the course of their lives or others’. The most devout believe Feiros holds the power to bend fate itself, shaping it according to their needs—whether for creation, chaos, or destruction.
+
+
+
+### ***Herko - The Iron Tyrant :**
+**Alignment:** LE (Lawful Evil)  
+**Domain:** War  
+**Title:** The Iron Tyrant
+***Description:*** Herko hails from the island of Rumpfort, once divided among several factions until he rose to power through ruthless manipulation, betrayal, and violence. He destroyed his rivals, crushed rebellions, and brought the island under his iron rule, believing that only through absolute control can order be maintained. Herko's vision of peace comes at a steep cost: subjugation of his people and the eradication of any who oppose his will. For Herko, war is not just a means to an end—it is the ultimate tool for asserting dominance and ensuring that no one can challenge his authority.
+
+***Worship:*** Herko has few true worshipers, as most mortals fear him rather than revere him. His temples are more akin to military strongholds, inhabited by enforcers and soldiers who maintain order through brutality. Only those who seek to emulate his tyrannical methods—ambitious warlords and dictators—offer him tribute. These rare offerings are usually spoils of war or the lives of captured enemies, given in the hope of gaining his favor to expand their dominion. The public does not openly worship Herko but instead fear his wrath, believing that rebellion or disobedience will bring about their swift downfall. His priests, often hidden in the shadows, manipulate from behind the scenes, enforcing loyalty to Herko's law. 
+
+
+### ***Arthea - The Deceiver*:**
+***Alignment:*** CE (Chaotic Evil)
+***Domain:*** Evil Inclination, Thieves
+***Title:*** The Deceiver
+***Description:*** Arthea was once a small-time gnome thief, a shadow in the underworld. But her meteoric rise to power left many questioning how she became one of the most feared and cunning figures among thieves and criminals. No one knows exactly how she gained her abilities, but what is clear is that she now wields influence far beyond a simple thief’s skill. Rumors swirl of dark deals or ancient magic, but none dare speak openly. As **The Deceiver**, Arthea thrives on chaos, sowing discord and mistrust wherever she goes, manipulating events to her advantage. Her presence is felt in every betrayal, every whispered lie, and every theft that alters the balance of power.
+
+***Worship:*** Arthea’s followers, mainly thieves, con artists, and those who live by deception, keep their allegiance to her well-hidden. Her shrines are tucked away in the darkest parts of cities, disguised as safe houses or guildhalls for thieves. Worshipers leave offerings of stolen goods and secrets, hoping to gain her favor and sharpen their skills in deception. Devotees of Arthea seek her blessings to carry out elaborate heists, betray their rivals, or manipulate their way to greater power. Her priests teach that only those who can deceive even their closest allies are truly worthy of her gifts, and they often orchestrate complex schemes to prove their cunning.
+
+
 
 ### **Rammas – The Maker**
 
@@ -185,6 +221,10 @@ Demron, the god of fear, wields terror and chaos as his weapons. As the son of I
 **Description**: Rammas was once a dwarven humble blacksmith who could forge anything from the finest blades to intricate jewelry. His craftsmanship was unrivaled, and people traveled from across the land to commission his work. Legend says that one day, a god approached Rammas, asking for a weapon that could kill even the divine. Rammas, in his devotion to craft, accepted the challenge, forging a weapon so perfect that it threatened the balance of the world. Instead of using it, the gods offered him a place among them. Now, as the Maker, Rammas continues to craft, shaping not only metal but the very fabric of reality. His followers, master artisans, and crafters seek his blessing, praying that they too can create works of perfection.
 
 **Worship**: Workshops dedicated to Rammas are considered sacred spaces, where craftsmen pray before beginning any new work. Offerings of broken tools are left at his altars, asking for his blessing to perfect their craft. During festivals, competitions of skill are held in his honor, with the finest creations offered to Rammas himself.
+
+
+
+
 
 
 ### **Nexira – The Blight**

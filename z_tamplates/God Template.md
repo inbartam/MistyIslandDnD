@@ -1,11 +1,7 @@
-***Name*:**
+### ***Name*:**
 ***Alignment:***
 ***Domain:***
 ***Title:***
-***Relationships:***
+***Description:***
 
-| God | Relationship |
-| --- | ------------ |
-|     |              |
-***History:***
 ***Worship:***
