@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "dfc5f1e5b1906002",
+    "type": "split",
+    "children": [
+      {
+        "id": "57de49f3af9c2cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9bf37ba3a56b897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The World Creation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62f3f2344a1e821d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The Gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "946b2dd7b5fa4388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Untitled/Orders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f9bcdc873163db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Untitled/The Order of Hammers.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af9a32054c2eaef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "39caff56e747c6da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f75f453eec81c31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b66401c6ad686acc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07679c85c957406c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f8e0512c5db22032",
+    "type": "split",
+    "children": [
+      {
+        "id": "724a2a08ff77c735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec2d8503dd8246b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fc0bb8c700bfd12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/The Gods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cef787760f467c97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/The Gods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1bbd8f624bbab91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/The Gods.md"
+              }
+            }
+          },
+          {
+            "id": "f0b1d7371e6ed8d3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "62f3f2344a1e821d",
+  "lastOpenFiles": [
+    "Lore/Untitled.md",
+    "z_tamplates/God Template.md",
+    "Lore/The World Creation.md",
+    "Untitled",
+    "Lore/The Gods.md",
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/Untitled/Orders.md",
+    "Sources/The Gods-20240922003216370.webp",
+    "Sources/The Order of Hammers-20240922002651522.webp",
+    "Sources/The Order of Hammers-20240922002354804.webp",
+    "Lore/Untitled",
+    "Sources/The Gods-20240922002202917.webp",
+    "Welcome.md",
+    "z_tamplates",
+    "Lore/The Titans.md",
+    "Sources/The Gods-20240920180509077.webp",
+    "Eros.md",
+    "Sources/The World Creation-20240920162551272.webp",
+    "Sources",
+    "The_Gods.md",
+    "Lore",
+    "The.md",
+    "[[The.md",
+    "2024-09-19.md"
+  ]
+}
