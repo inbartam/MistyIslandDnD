@@ -162,9 +162,11 @@ Demron, the god of fear, wields terror and chaos as his weapons. As the son of I
  <tr> <td>Zyther</td> <td>Oceans and Tides</td> <td>CN</td> <td>The Tidekeeper</td> </tr> <tr> <td>Xalara</td> <td>Fire and Destruction</td> <td>CE</td> <td>The Flame Bringer</td> </tr> <tr> <td>Veridia</td> <td>Nature, Forests, and Growth</td> <td>NG</td> <td>The Green Mother</td> </tr> <tr> <td>Auriel</td> <td>Light, Purity, and Healing</td> <td>LG</td> <td>The Lightbringer</td> </tr> <tr> <td>Solthar</td> <td>Decay, and Famine</td> <td>NE</td> <td>The Eternal Hunger</td> </tr> <tr> <td>Ellaris</td> <td>Art, Music, and Creation</td> <td>CG</td> <td>The Muse of Creation</td> </tr> <tr> <td>Valynor</td> <td>Protection, Sacrifice, and Defense</td> <td>LG</td> <td>The Shield of the Weak</td> </tr> 
 </table>
 
-Here are the descriptions for each of the New Gods, with additional details about how they are worshiped:
 
----
+> [!Gods to add and pulish] Title
+> 	Herko, Yarko, Feiros, Arthea
+> 		Write who they are and how they rasied to godhood
+> 		
 
 ### **Lagaris – The Inspirer**
 
