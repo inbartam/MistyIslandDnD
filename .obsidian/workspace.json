@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/test 2.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/test 2.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/test 2.md",
+                "file": "Lore/Untitled/The Order of Hammers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/test 2.md"
+                "file": "Lore/Untitled/The Order of Hammers.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "62f3f2344a1e821d",
   "lastOpenFiles": [
-    "Lore/Untitled/The Order of Hammers.md",
     "Lore/test 2.md",
+    "Lore/Untitled/The Order of Hammers.md",
     "Lore/The Gods.md",
     "Lore/Untitled.md",
     "z_tamplates/God Template.md",
