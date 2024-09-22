@@ -1,5 +1,6 @@
 The **Order of the Hammer** is an ancient templar order dedicated to [[The Gods#**Borul – The Judge**|Borul]], the god of law and justice. These warrior-priests are sworn to uphold cosmic balance and ensure that justice is enforced throughout the realms. They see themselves as the divine hand of [[The Gods#**Borul – The Judge**|Borul]], hunting down those who commit evil, disrupt order, or defy the laws of gods and mortals. Their mission is to restore balance wherever chaos or corruption reigns, ensuring that righteousness and fairness prevail. 
 
+
 ![[The Order of Hammers-20240922175530123.webp|400]]
 
 #### Structure of the Order

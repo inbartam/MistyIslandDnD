@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/DM Notes/Xalara - to Ben.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/DM Notes/Xalara - to Ben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md",
+                "file": "Lore/DM Notes/Xalara - to Ben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Untitled/The Order of Hammers.md"
+                "file": "Lore/DM Notes/Xalara - to Ben.md"
               }
             }
           },
@@ -193,10 +193,17 @@
   },
   "active": "946b2dd7b5fa4388",
   "lastOpenFiles": [
+    "Lore/DM Notes/Xalara - Origin.md",
+    "Lore/DM Notes/Xalara - to Ben.md",
+    "Lore/DM Notes/Barony of Emberhold.md",
+    "Lore/Places/Untitled.md",
+    "Lore/Places",
     "Lore/The Gods.md",
+    "Lore/DM Notes",
+    "Lore/Untitled 1.md",
+    "Lore/Untitled/The Order of Hammers.md",
     "z_tamplates/God Template.md",
     "W.md",
-    "Lore/Untitled/The Order of Hammers.md",
     "Lore/The World Creation.md",
     "Lore/Untitled/Orders.md",
     "Sources/The Gods-20240922002202917.webp",

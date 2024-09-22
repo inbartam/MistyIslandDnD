@@ -7,6 +7,13 @@ The gods of this world are divided into two types - the Old Gods and the New God
 | **Evil**    | Herko                  | Lardan, Nexira           | Xalara, Arthea, Demron, Feiros |
 
 
+| Alignment   | Lawful                                                                                                                                        | Neutral                                                                                                                                 | Chaotic                                                                                                                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Good**    | [[The Gods#Valynor – The Shield of the Weak\|Valynor]], [[The Gods#Auriel – The Lightbringer\|Auriel]], [[The Gods#Borul – The Judge\|Borul]] | [[The Gods#Rammas – The Maker\|Rammas]], [[The Gods#Veridia – The Green Mother\|Veridia]], [[The Gods#Lagaris – The Inspirer\|Lagaris]] | [[The Gods#Ellaris – The Muse of Creation\|Ellaris]], [[The Gods#Jeros – The Fulfiller\|Jeros]], [[The Gods#***Feiros - The Weaver of Fate* **\|Feiros]]                                                          |
+| **Neutral** | [[The Gods#**Ikur - Lord of the Skies**\|Ikur]], [[The Gods#***Yarko - The Whisperer of Time* **\|Yarko]]                                     | [[The Gods#Solthar – The Eternal Hunger\|Solthar]], [[The Gods#***Yarko - The Whisperer of Time* **\|Yarko]]                            | [[The Gods#Zyther – The Tidekeeper\|Zyther]], [[The Gods#**Mondra – The Life Giver**\|Mondra]], [[The Gods#***Feiros - The Weaver of Fate* **\|Feiros]], [[The Gods#***Yarko - The Whisperer of Time* **\|Yarko]] |
+| **Evil**    | [[The Gods#***Herko - The Iron Tyrant **\|Herko]]                                                                                             | [[The Gods#Lardan – The Undertaker\|Lardan]], [[The Gods#Nexira – The Blight\|Nexira]]                                                  | [[The Gods#Xalara – The Flame Bringer\|Xalara]], [[The Gods#***Arthea - The Deceiver* **\|Arthea]], [[The Gods#Demron – The Hand\|Demron]], [[The Gods#***Feiros - The Weaver of Fate* **\|Feiros]]               |
+
+
 
 ## Eros
 
