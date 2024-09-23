@@ -4,11 +4,11 @@ Xalara was raised in the richness of **Emberhold Keep**, the seat of her family�
 
 When the warlord discovered their affair, his jealousy and rage knew no bounds. He sentenced Xalara and her lover to a horrific fate—death in the **Obsidian Forge**. They were thrown into the forge, where they were consumed by flames. But something ancient stirred within the fire.
 
-As Xalara and her lover burned,, transforming her into something far more powerful and dangerous than she had ever been.  but her spirit was reborn in flame. Her lover, consumed by the fire, was transformed into a statue of pure obsidian, hardened by the heat but eternally lifeless. Xalara, now the living embodiment of fire and destruction, emerged from the forge as **The Flame Bringer**. Her fury was unrelenting, and in her rage, she reduced **Ashenwell** and surrounding towns to ash, destroying everything in her path.
+As Xalara and her lover burned,, transforming her into something far more powerful and dangerous than she had ever been, her spirit was reborn in flame. Xalara, now the living embodiment of fire and destruction, emerged from the forge as **The Flame Bringer**. Her fury was unrelenting, and in her rage, she reduced the twon to ash, destroying everything in her path.
 
-Xalara forged her lover’s obsidian statue into a sword, which she called **The Ashen Heart**. The sword held the essence of the Titan's destructive power and was infused with Xalara’s bloodlust. This weapon became a symbol of both her lost love and the destructive power she now wielded. For centuries, Xalara ruled as a goddess of flame, burning cities, fields, and forests, believing that only through destruction could the world be purified and reborn anew.
+For centuries, Xalara ruled as a goddess of flame, burning cities, fields, and forests, believing that only through destruction could the world be purified and reborn anew.
 
-However, fearing her wrath, a secret order of warriors and priests rose against her. They stole **The Ashen Heart** and sealed it away in an ancient temple deep beneath the earth, where her flames could not reach. Without her sword, Xalara’s influence waned, and her spirit became bound to the weapon, unable to escape its obsidian prison.
+However, fearing her wrath, a secret order of warriors and priests rose against her. They stole **The Ashen Heart**, where her flames could not reach. 
 
 ---
 
