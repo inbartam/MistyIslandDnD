@@ -1,0 +1,1 @@
+A **Master Thief** in the Thieves Guild who becomes Mordek’s mentor and father figure. He’s a small gnome with a devilish, self-confident nature and teaches Mordek the skills of a thief.

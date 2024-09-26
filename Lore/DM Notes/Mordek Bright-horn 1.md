@@ -48,7 +48,7 @@ The other kids on the streets soon started to call him 'Brighthorn'.
 
 Reaching the age of ten, Mordek Brighthorn was already a rough, gritty criminal.
 
-That's when he met Alvyn.
+That's when he met [[Alvyn Doublelock|Alvyn]].
 
 A humbly dressed small gnome, he walked the street in a proud, self-confident way, that to Mordek screamed 'rob me! I'm so tiny and rich!'.
 
@@ -120,7 +120,7 @@ This was a judge, a Hammer, by the look of her official vest that peeked out fro
 
 Curious. He expected to face some form of judge for this crime, just not this soon.
 
-"You'll do well enough. I am Thia. "
+"You'll do well enough. I am [[The Hammer Tia|Thia]]. "
 
 As she spoke, he saw a beautiful elven face emerge from the shadows of her cowl.
 
@@ -140,7 +140,7 @@ Don't be confused, Mordek would kill the occasional Guard or sentry when it was 
 
 He refused to kill anyone that wasn't necessary for the success of a job.
 
-This included children, the elderly, and a fish merchant called Nelly that always seemed fond of him.
+This included children, the elderly, and a fish merchant called [[Nelly|Nelly]] that always seemed fond of him.
 
 Every time his blade would sink into the heart of a victim, Mordek would think of his mother.
 
