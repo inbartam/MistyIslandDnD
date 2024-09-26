@@ -26,9 +26,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0de1eb650f1189b",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Commoner",
+                    "source": "5e SRD",
+                    "size": "Medium",
+                    "type": "humanoid",
+                    "subtype": "any race",
+                    "alignment": "any alignment",
+                    "ac": 10,
+                    "hp": 4,
+                    "hit_dice": "1d8 + -1",
+                    "speed": "30 ft.",
+                    "stats": [
+                      10,
+                      10,
+                      10,
+                      10,
+                      10,
+                      10
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "",
+                    "senses": "passive Perception 10",
+                    "languages": "any one language (usually Common)",
+                    "cr": "0",
+                    "bestiary": true,
+                    "actions": [
+                      {
+                        "name": "Club",
+                        "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+                        "attack_bonus": 2,
+                        "damage_dice": "1d4"
+                      }
+                    ]
+                  },
+                  100
+                ]
+              ]
+            }
+          },
+          {
+            "id": "c7780ae7f02c3dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One Shot - Vikings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,64 +158,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "4fc0bb8c700bfd12",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "One Shot - Vikings.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "cef787760f467c97",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "One Shot - Vikings.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "e1bbd8f624bbab91",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "One Shot - Vikings.md"
-              }
-            }
-          },
-          {
-            "id": "f0b1d7371e6ed8d3",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "68a977e7181c6f63",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,11 +181,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "afc60864b99c2b43",
+  "active": "c7780ae7f02c3dd8",
   "lastOpenFiles": [
     "The Human Belt.md",
-    "Sources/The Human Belt-20240926171316758.webp",
     "One Shot - Vikings.md",
+    "Sources/The Human Belt-20240926171316758.webp",
     "DM Notes/NPCS/The Hammer Tia.md",
     "Lore/The Gods.md",
     "Lore/The Titan's War.md",
