@@ -1,5 +1,5 @@
 ### **Gravitas - King of the Titans**  
-![350](../Sources/gravitas.webp)
+![|350](../Sources/gravitas.webp)
 **Alignment**: LE (Lawful Evil)  
 **Domain**: Gravity, Mass, Force  
 **Title**: King of the Titans  
