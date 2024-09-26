@@ -9,7 +9,6 @@ Lori was manipulated by the the new gods. You see, in a system where the gods ga
 When someone lost all of his beloved, they call for the skies to help.
 
   
-
 Sunken to his despair he sought reconciliation by alcohol, drugs, mind-altering magic spells drugs (the funky ones). Lori took the blame for himself for being a tool and took a swore to bring the new gods down and make them feel the human suffering they enjoy of.
 
   

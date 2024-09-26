@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/DM Notes/Xalara - Origin.md",
+                "file": "Lore/The Titans.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/DM Notes/Xalara - Origin.md",
+                "file": "Lore/The Titans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/DM Notes/Xalara - Origin.md",
+                "file": "Lore/The Titans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/DM Notes/Xalara - Origin.md"
+                "file": "Lore/The Titans.md"
               }
             }
           },
@@ -170,45 +170,46 @@
   },
   "active": "946b2dd7b5fa4388",
   "lastOpenFiles": [
-    "Sources/Xalara_symbol - Origin-20240926113109536.webp",
+    "Sources/The Titans-20240926123440736.webp",
+    "Sources/The Titans-20240926123241386.webp",
+    "Sources/The Titans-20240926123237041.webp",
+    "Sources/The Titans-20240926123230811.webp",
+    "Sources/The Titans-20240926123207857.webp",
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/The Gods.md",
+    "Lore/The Titans.md",
+    "z_tamplates/God Template.md",
+    "W.md",
+    "Welcome.md",
+    "Lore/DM Notes/NPCS/Alvyn Doublelock.md",
+    "Lore/DM Notes/NPCS/Nelly.md",
+    "Lore/DM Notes/NPCS/The Hammer Tia.md",
+    "Lore/DM Notes/Barony of Emberhold.md",
+    "Lore/DM Notes/Mordek Bright-horn 1.md",
     "Lore/DM Notes/Xalara - Origin.md",
+    "Lore/DM Notes/Xalara - to Ben.md",
+    "Lore/Untitled/Orders.md",
+    "Lore/The Titan's War.md",
+    "Lore/The World Creation.md",
+    "Players/Lori.md",
+    "Sources/Xalara_symbol - Origin-20240926113109536.webp",
     "Sources/Xalara_transform - Origin-20240926112930742.webp",
     "Sources/Xalara - Origin-20240926112846781.webp",
-    "Lore/DM Notes/NPCS/Alvyn Doublelock.md",
     "Sources/Alvyn Doublelock-20240926112815516.webp",
     "Sources/Alvyn Doublelock-20240926112810647.webp",
     "Sources/Alvyn Doublelock-20240926112806686.webp",
-    "Sources/Alvyn Doublelock-20240926112800076.webp",
-    "Lore/DM Notes/NPCS/The Hammer Tia.md",
-    "Sources/The Hammer Tia-20240926112642791.webp",
-    "Sources/The Hammer Tia-20240926112637960.webp",
-    "Lore/DM Notes/NPCS/Nelly.md",
-    "Sources/Nelly Trder.webp",
-    "Lore/The Gods.md",
-    "Lore/The Titan's War.md",
-    "Lore/The Titans.md",
-    "Players/Lori.md",
-    "Lore/The World Creation.md",
-    "Lore/Untitled/The Order of Hammers.md",
-    "Lore/Untitled/Orders.md",
-    "Lore/DM Notes/Mordek Bright-horn 1.md",
-    "Lore/DM Notes/Barony of Emberhold.md",
     "NPCSAlvyn.md",
     "Lore/DM Notes/NPCS",
     "Players/Mordek Bright-horn.md",
-    "Lore/DM Notes/Xalara - to Ben.md",
     "Players",
     "New folder",
     "Lore/Places/Untitled.md",
     "Lore/Places",
     "Lore/DM Notes",
     "Lore/Untitled 1.md",
-    "z_tamplates/God Template.md",
-    "W.md",
     "Lore/test 2.md",
     "Untitled",
     "Lore/Untitled",
-    "Welcome.md",
     "z_tamplates",
     "Eros.md",
     "Sources",
