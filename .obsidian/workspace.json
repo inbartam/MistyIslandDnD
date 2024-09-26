@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0a1de6c1564247",
+        "id": "8e9ca28a63138734",
         "type": "tabs",
         "children": [
           {
-            "id": "946b2dd7b5fa4388",
+            "id": "ba00316a87c78975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/The Titans.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Titans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Titans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lore/The Titans.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,21 +160,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "946b2dd7b5fa4388",
+  "active": "ba00316a87c78975",
   "lastOpenFiles": [
-    "Sources/The Titans-20240926141730912.webp",
-    "Sources/The Titans-20240926140936523.webp",
-    "Sources/The Titans-20240926140928673.webp",
-    "Sources/The Titans-20240926140340215.webp",
-    "Sources/The Titans-20240926135645699.webp",
-    "Sources/The Titans-20240926135204478.webp",
-    "Sources/The Titans-20240926134759945.webp",
-    "Sources/The Titans-20240926134225766.webp",
-    "Lore/The Gods.md",
     "Lore/The Titans.md",
-    "Sources/The Titans-20240926133340144.webp",
-    "Sources/The Titans-20240926131340757.webp",
-    "Sources/The Titans-20240926131316646.webp",
+    "Sources/Terram.webp",
+    "Sources/Luxos.webp",
+    "Sources/Gravitas symbos.webp",
+    "Lore/The Titan's War.md",
+    "Sources/Terram_S.webp",
+    "Sources/The Gods-20240920180509077.webp",
+    "Sources/The Gods-20240922002202917.webp",
+    "Sources/The Gods-20240922003216370.webp",
+    "Sources/The Hammer Tia-20240926112637960.webp",
+    "Sources/The Hammer Tia-20240926112642791.webp",
+    "Sources/The Order of Hammers-20240922002354804.webp",
+    "Lore/The Gods.md",
     "Lore/Untitled/The Order of Hammers.md",
     "z_tamplates/God Template.md",
     "W.md",
@@ -195,7 +187,6 @@
     "Lore/DM Notes/Xalara - Origin.md",
     "Lore/DM Notes/Xalara - to Ben.md",
     "Lore/Untitled/Orders.md",
-    "Lore/The Titan's War.md",
     "Lore/The World Creation.md",
     "Players/Lori.md",
     "NPCSAlvyn.md",
