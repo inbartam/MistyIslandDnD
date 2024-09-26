@@ -115,7 +115,7 @@
               "state": {
                 "file": "Lore/The Titans.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,16 +168,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "946b2dd7b5fa4388",
+  "active": "cef787760f467c97",
   "lastOpenFiles": [
+    "Lore/The Gods.md",
+    "Lore/The Titans.md",
+    "Sources/The Titans-20240926133340144.webp",
+    "Sources/The Titans-20240926131340757.webp",
+    "Sources/The Titans-20240926131316646.webp",
+    "Sources/The Titans-20240926130731367.webp",
     "Sources/The Titans-20240926123440736.webp",
     "Sources/The Titans-20240926123241386.webp",
     "Sources/The Titans-20240926123237041.webp",
     "Sources/The Titans-20240926123230811.webp",
     "Sources/The Titans-20240926123207857.webp",
     "Lore/Untitled/The Order of Hammers.md",
-    "Lore/The Gods.md",
-    "Lore/The Titans.md",
     "z_tamplates/God Template.md",
     "W.md",
     "Welcome.md",
@@ -193,11 +197,6 @@
     "Lore/The World Creation.md",
     "Players/Lori.md",
     "Sources/Xalara_symbol - Origin-20240926113109536.webp",
-    "Sources/Xalara_transform - Origin-20240926112930742.webp",
-    "Sources/Xalara - Origin-20240926112846781.webp",
-    "Sources/Alvyn Doublelock-20240926112815516.webp",
-    "Sources/Alvyn Doublelock-20240926112810647.webp",
-    "Sources/Alvyn Doublelock-20240926112806686.webp",
     "NPCSAlvyn.md",
     "Lore/DM Notes/NPCS",
     "Players/Mordek Bright-horn.md",

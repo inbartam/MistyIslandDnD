@@ -11,44 +11,44 @@
 
 
 ### **Vulkaris**
-![[The Titans-20240926123440736.webp|300]]
+![[The Titans-20240926123440736.webp|350]]
 **Alignment**: CE (Chaotic Evil)  
 **Domain**: Fire, Destruction, Rebirth  
 **Title**: The Scorched
 **Description**: Vulkaris, the embodiment of untamed fire and molten fury, is the most feared among the Titans. Born from the heart of an erupting volcano, his body is a fusion of blackened rock and molten lava, constantly shifting as if on the verge of explosion. His searing presence sets the earth ablaze in his wake, and his temper is as unpredictable as the wildfires that ravage the lands. Vulkaris views fire as a means to an end. Burning the old world to cleanse it for something new. His heart burns with a singular hatred for anything that dares to oppose his chaotic will.
-
+![[The Titans-20240926130731367.webp|200]]
 **Worship**: Forbidden in all civilized lands, Vulkaris’ followers gather in hidden shrines deep within volcanoes or dark forests. They light sacrificial fires and offer burnt offerings, hoping to invoke his destructive power. His priests believe that by calling on Pyros, they can burn away corruption and rise as rulers in the ashes.
 
 ---
 
 ### **Hydros**
-
+![[The Titans-20240926131340757.webp|350]]
 **Alignment**: NE (Neutral Evil)  
 **Domain**: Water, Oceans, Storms  
-**Title**: The Drowned King  
-**Description**: Hydros governs the oceans, controlling the tides and the deep currents. He is as patient as the sea itself, biding his time while plotting to flood the world and drown the Old Gods’ reign. His ambition is to see the lands submerged under his domain, returning the earth to its primordial state.
+**Title**: The Drowned   
+**Description**: Hydros governs the oceans, controlling the tides and the deep currents. His form is ever shifting, He is as patient as the sea itself, biding his time while plotting to flood the world and drown the Old Gods’ reign.
 
-**Worship**: Worshippers of Hydros are few and far between, typically pirates, sailors, and sea cults who dwell near dangerous, uncharted waters. They offer drowned sacrifices, praying for the power to summon storms and sink ships, drawing strength from the chaos of the seas.
-
+**Worship**: Worshippers of Hydros are few and far between, typically pirates, and sea cults who dwell near dangerous, uncharted waters. They offer drowned sacrifices, praying for the power to summon storms and sink ships, drawing strength from the chaos of the seas.
+![[The Titans-20240926131316646.webp|200]]
 ---
 
 ### **Luxos**
 
 **Alignment**: LE (Lawful Evil)  
 **Domain**: Light, Radiance, Creation  
-**Title**: The Blinding Lord  
-**Description**: Luxos is the Titan of Light, but unlike the Old Gods’ benevolent interpretations of radiance, Luxos sees light as a tool of domination and control. He seeks to blind the world in his brilliance, burning away free will and making all things visible, so they may bend to his will. His power is as tyrannical as it is brilliant.
+**Title**: The Blinding Light  
+**Description**: Luxos is the Titan of Light. He seeks to blind the world in his light, so absolute that is revealing truth and blinding and burning those who cannot bear its intensity. Burning away free will and making all things visible, so they may bend to his will. 
 
 **Worship**: Luxos’ followers are rare, worshiping him in secrecy. His cults use blinding lights in their rituals, often burning the eyes of sacrificial victims. They believe that through total submission to light, they can gain the clarity to rule over others and bring the world under Luxos' oppressive brilliance.
-
+![[The Titans-20240926133340144.webp|250]]
 ---
 
 ### **Umbros**
 
 **Alignment**: NE (Neutral Evil)  
 **Domain**: Darkness, Shadow, Death  
-**Title**: The Void Walker  
-**Description**: Umbros is the Titan of Darkness, ruling over shadow and death. He lurks in the void between worlds, seeking to extinguish all light and life. His goal is to pull the world into eternal night, where only shadows remain. The void he commands consumes all, leaving nothing behind.
+**Title**: The Void   
+**Description**: Umbros is the Titan of Darkness, ruling over shadow. He lurks in the void between worlds, seeking to extinguish all light and life. His goal is to pull the world into eternal night, where only shadows remain. The void he commands consumes all, leaving nothing behind.
 
 **Worship**: Worship of Umbros is strictly outlawed, though shadowy sects still persist. His followers gather in absolute darkness, conducting their rites in total silence to honor the void. They believe that by embracing shadow, they can escape the mortal coil and ascend to Umbros’ dark kingdom.
 
