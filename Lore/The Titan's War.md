@@ -1,1 +1,11 @@
-In the beginning, [[The Titans]] shaped the world from the chaos of eternity
+In the beginning, [[The Titans]] shaped the world from the chaos of eternity, molding the seas, mountains and the skies into their vision of perfection, silent, lifeless, prefect balance. They were the creators, the shapers of the very land and sea. [The Titans](The%20Titans.md) longed for a world where nothing dared disturb the natural order they had imposed. [Gravitas](The%20Titans.md#gravitas---king-of-the-titans) the mighty King of the Titans, stood at the helm, demanding all things bow beneath the weight of his dominion. To the Titans, a world free from life, untouched by change, was the only true order.
+
+But among the [[The Gods#**The Old Gods**|Old Gods]], the goddess [[The Gods#**Jeros – The Fulfiller**|Jeros]], dreamed of something far more. She envisioned a world not barren and still, but alive and full with creation, a place where life would flourish. Her dream sparked defiance against the Titans’ lifeless and unyielding rule. She shared her vision with the other Old Gods, and together, they dared to bring life into the world.
+
+The Titans, furious at this betrayal, saw it as an affront to their sacred creation. They believed life was an unnatural force, corrupting the perfect world they had molded. Thus began the Titan War. A struggle between the creators of the world and the gods who sought to fill it with life.
+
+In their wrath, the Titans unleashed devastation. Mountains were shattered, seas boiled with fury, and storms ravaged the skies. Gravitas, and his kin unleashed their full might upon the world, determined to restore the lifeless balance they once knew. The Titans sought to erase the gods’ creations, to bring the world back to its pure, dormant state.
+
+For a time, the Titans seemed destined to triumph. Their power was ancient, drawn from the very forces of nature—fire, water, wind, and stone. Yet, [[The Gods]] rebellion had ignited something greater.  With every battle, the Titans’ power waned, sapped by the world they once controlled. The life that Jeros had envisioned, the life the gods had granted mortals, began to break the chains of the Titans’ dominion.
+
+In their lowest point, [[The Titans]] were ready to destroy all, not just life, but to take all they created to the void. As Gravitas and the remaining Titans prepared for a last attack to obliterate all extinct, [[The Gods#**Helena – The Savior**|Helena]] 

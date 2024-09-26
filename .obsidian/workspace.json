@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Titans.md",
+                "file": "Lore/The Titan's War.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Titans.md",
+                "file": "Lore/The Titan's War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Titans.md",
+                "file": "Lore/The Titan's War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Titans.md"
+                "file": "Lore/The Titan's War.md"
               }
             }
           },
@@ -170,11 +170,17 @@
   },
   "active": "ba00316a87c78975",
   "lastOpenFiles": [
+    "Lore/The Gods.md",
+    "Lore/The Titan's War.md",
+    "Lore/The World Creation.md",
     "Lore/The Titans.md",
+    "[The.md",
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/Untitled/Orders.md",
+    "Lore/Places/Untitled.md",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
     "Sources/Gravitas symbos.webp",
-    "Lore/The Titan's War.md",
     "Sources/Terram_S.webp",
     "Sources/The Gods-20240920180509077.webp",
     "Sources/The Gods-20240922002202917.webp",
@@ -182,29 +188,24 @@
     "Sources/The Hammer Tia-20240926112637960.webp",
     "Sources/The Hammer Tia-20240926112642791.webp",
     "Sources/The Order of Hammers-20240922002354804.webp",
-    "Lore/The Gods.md",
-    "Lore/Untitled/The Order of Hammers.md",
     "z_tamplates/God Template.md",
     "W.md",
     "Welcome.md",
-    "Lore/DM Notes/NPCS/Alvyn Doublelock.md",
-    "Lore/DM Notes/NPCS/Nelly.md",
-    "Lore/DM Notes/NPCS/The Hammer Tia.md",
-    "Lore/DM Notes/Barony of Emberhold.md",
-    "Lore/DM Notes/Mordek Bright-horn 1.md",
-    "Lore/DM Notes/Xalara - Origin.md",
-    "Lore/DM Notes/Xalara - to Ben.md",
-    "Lore/Untitled/Orders.md",
-    "Lore/The World Creation.md",
+    "DM Notes/NPCS/Alvyn Doublelock.md",
+    "DM Notes/NPCS/Nelly.md",
+    "DM Notes/NPCS/The Hammer Tia.md",
+    "DM Notes/Barony of Emberhold.md",
+    "DM Notes/Mordek Bright-horn 1.md",
+    "DM Notes/Xalara - Origin.md",
+    "DM Notes/Xalara - to Ben.md",
     "Players/Lori.md",
     "NPCSAlvyn.md",
-    "Lore/DM Notes/NPCS",
+    "DM Notes/NPCS",
     "Players/Mordek Bright-horn.md",
     "Players",
     "New folder",
-    "Lore/Places/Untitled.md",
     "Lore/Places",
-    "Lore/DM Notes",
+    "DM Notes",
     "Lore/Untitled 1.md",
     "Lore/test 2.md",
     "Untitled",
