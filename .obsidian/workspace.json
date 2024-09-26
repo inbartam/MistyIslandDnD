@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/DM Notes/NPCS/Nelly.md",
+                "file": "Players/Lori.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/DM Notes/NPCS/Nelly.md",
+                "file": "Players/Lori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/DM Notes/NPCS/Nelly.md",
+                "file": "Players/Lori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/DM Notes/NPCS/Nelly.md"
+                "file": "Players/Lori.md"
               }
             }
           },
@@ -170,12 +170,13 @@
   },
   "active": "946b2dd7b5fa4388",
   "lastOpenFiles": [
+    "Lore/DM Notes/NPCS/Nelly.md",
+    "Players/Lori.md",
     "Lore/The Titans.md",
     "Lore/The Titan's War.md",
     "Lore/The Gods.md",
     "Lore/The World Creation.md",
     "Lore/Untitled/The Order of Hammers.md",
-    "Lore/DM Notes/NPCS/Nelly.md",
     "Lore/Untitled/Orders.md",
     "Lore/DM Notes/NPCS/The Hammer Tia.md",
     "Lore/DM Notes/Mordek Bright-horn 1.md",
@@ -214,7 +215,6 @@
     "The_Gods.md",
     "Lore",
     "The.md",
-    "[[The.md",
-    "2024-09-19.md"
+    "[[The.md"
   ]
 }
