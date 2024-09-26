@@ -33,7 +33,7 @@
 ---
 
 ### **Luxos**
-
+![[The Titans-20240926134225766.webp|350]]
 **Alignment**: LE (Lawful Evil)  
 **Domain**: Light, Radiance, Creation  
 **Title**: The Blinding Light  
@@ -44,32 +44,33 @@
 ---
 
 ### **Umbros**
-
+![[The Titans-20240926134759945.webp|350]]
 **Alignment**: NE (Neutral Evil)  
-**Domain**: Darkness, Shadow, Death  
+**Domain**: Darkness, Shadow,  
 **Title**: The Void   
 **Description**: Umbros is the Titan of Darkness, ruling over shadow. He lurks in the void between worlds, seeking to extinguish all light and life. His goal is to pull the world into eternal night, where only shadows remain. The void he commands consumes all, leaving nothing behind.
 
+![[The Titans-20240926135204478.webp|250]]
 **Worship**: Worship of Umbros is strictly outlawed, though shadowy sects still persist. His followers gather in absolute darkness, conducting their rites in total silence to honor the void. They believe that by embracing shadow, they can escape the mortal coil and ascend to Umbros’ dark kingdom.
 
 ---
 
 ### **Aereon**
-
+![[The Titans-20240926135645699.webp|350]]
 **Alignment**: CE (Chaotic Evil)  
-**Domain**: Wind, Chaos, Change  
+**Domain**: Wind, Change  
 **Title**: The Storm Tyrant  
 **Description**: Aereon embodies the chaotic winds, shifting constantly between calm breezes and destructive gales. He thrives on change and disorder, seeking to tear down the structures of the Old Gods and replace them with anarchy. His power is felt in every storm, in every whispering wind that promises disaster.
-
+![[The Titans-20240926140340215.webp|300]]
 **Worship**: Aereon’s followers often take the form of nomads and raiders, using his power to sow chaos wherever they go. They invoke him in high winds and during great storms, offering sacrifices of precious items, believing that the storms will carry away their enemies and grant them freedom through destruction.
 
 ---
 
 ### **Terram**
-
+![[The Titans-20240926140936523.webp|350]]
 **Alignment**: LE (Lawful Evil)  
 **Domain**: Earth, Mountains, Stability  
 **Title**: The Earthshaker  
 **Description**: Terram is the unyielding force of earth, controlling the stability of land, stone, and mountains. His goal is to bring the entire world under the dominion of solid earth, crushing anything that stands against him. Terram believes in order through dominance, reshaping the earth in his own image.
-
+![[The Titans-20240926141730912.webp|250]]
 **Worship**: Worshippers of Terram gather in hidden caverns or beneath mountains, practicing dark rites of blood sacrifice to commune with the earth. They believe that through devotion, they can call upon Terram’s power to bring forth earthquakes, reshape the land, and gain control over the material world.
