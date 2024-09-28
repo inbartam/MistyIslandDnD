@@ -158,6 +158,53 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d558f670aa58c168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "One Shot - Vikings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4970441e5d05289e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "One Shot - Vikings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502dd67208a688ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "One Shot - Vikings.md"
+              }
+            }
+          },
+          {
+            "id": "e37f9c5c35ccc0d7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ]
       }
