@@ -81,14 +81,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One Shot - Vikings.md",
+                "file": "The Human Belt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7bb67badb71f119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b5b84bf7ee7859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Shot - Vikings.md",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Shot - Vikings.md",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Shot - Vikings.md"
+                "file": "Summary.md"
               }
             }
           },
@@ -228,19 +252,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c7780ae7f02c3dd8",
+  "active": "f1b5b84bf7ee7859",
   "lastOpenFiles": [
-    "Lore/The Gods.md",
-    "One Shot - Vikings.md",
+    "Lore/The World Creation.md",
+    "Campaigns.md",
+    "Summary.md",
     "The Human Belt.md",
-    "Lore/The Titans.md",
+    "Lore/Untitled/Orders.md",
     "Lore/Untitled/The Order of Hammers.md",
+    "Lore/Dislikes.md",
+    "Lore/The Gods.md",
     "Lore/The Titan's War.md",
+    "Lore/The Titans.md",
+    "One Shot - Vikings.md",
+    "W.md",
+    "Welcome.md",
+    "Lore/Places/Untitled.md",
+    "DM Notes/Game World.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "DM Notes/NPCS/The Hammer Tia.md",
-    "Lore/The World Creation.md",
-    "Lore/Untitled/Orders.md",
-    "Lore/Places/Untitled.md",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
     "Sources/Gravitas symbos.webp",
@@ -251,8 +281,6 @@
     "Sources/The Hammer Tia-20240926112637960.webp",
     "Sources/The Hammer Tia-20240926112642791.webp",
     "z_tamplates/God Template.md",
-    "W.md",
-    "Welcome.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/Barony of Emberhold.md",
@@ -267,12 +295,9 @@
     "New folder",
     "Lore/Places",
     "DM Notes",
-    "Lore/Untitled 1.md",
-    "Lore/test 2.md",
     "Untitled",
     "Lore/Untitled",
     "z_tamplates",
-    "Eros.md",
     "Sources",
     "Lore"
   ]
