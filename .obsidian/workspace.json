@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/The Gods.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/The Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/The Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Lore/The Gods.md"
               }
             }
           },
@@ -254,17 +254,17 @@
   },
   "active": "f1b5b84bf7ee7859",
   "lastOpenFiles": [
-    "Lore/The World Creation.md",
     "Campaigns.md",
-    "Summary.md",
+    "One Shot - Vikings.md",
     "The Human Belt.md",
-    "Lore/Untitled/Orders.md",
-    "Lore/Untitled/The Order of Hammers.md",
-    "Lore/Dislikes.md",
+    "Summary.md",
     "Lore/The Gods.md",
     "Lore/The Titan's War.md",
     "Lore/The Titans.md",
-    "One Shot - Vikings.md",
+    "Lore/The World Creation.md",
+    "Lore/Untitled/Orders.md",
+    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/Dislikes.md",
     "W.md",
     "Welcome.md",
     "Lore/Places/Untitled.md",
