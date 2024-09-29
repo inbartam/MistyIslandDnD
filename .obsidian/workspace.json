@@ -28,54 +28,6 @@
             }
           },
           {
-            "id": "e0de1eb650f1189b",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Commoner",
-                    "source": "5e SRD",
-                    "size": "Medium",
-                    "type": "humanoid",
-                    "subtype": "any race",
-                    "alignment": "any alignment",
-                    "ac": 10,
-                    "hp": 4,
-                    "hit_dice": "1d8 + -1",
-                    "speed": "30 ft.",
-                    "stats": [
-                      10,
-                      10,
-                      10,
-                      10,
-                      10,
-                      10
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "passive Perception 10",
-                    "languages": "any one language (usually Common)",
-                    "cr": "0",
-                    "bestiary": true,
-                    "actions": [
-                      {
-                        "name": "Club",
-                        "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
-                        "attack_bonus": 2,
-                        "damage_dice": "1d4"
-                      }
-                    ]
-                  },
-                  100
-                ]
-              ]
-            }
-          },
-          {
             "id": "c7780ae7f02c3dd8",
             "type": "leaf",
             "state": {
@@ -105,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/Organizations/The Merchants of Dusk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/Organizations/The Merchants of Dusk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Lore/Organizations/The Merchants of Dusk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Lore/Organizations/The Merchants of Dusk.md"
               }
             }
           },
@@ -254,7 +206,11 @@
   },
   "active": "f1b5b84bf7ee7859",
   "lastOpenFiles": [
-    "Lore/Organizations/The Thief Guild.md",
+    "Lore/Places/Islands.md",
+    "Summary.md",
+    "Lore/Dislikes.md",
+    "Lore/Organizations/The Merchants of Dusk.md",
+    "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/Orders.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
@@ -263,15 +219,11 @@
     "Campaigns.md",
     "One Shot - Vikings.md",
     "The Human Belt.md",
-    "Summary.md",
     "Lore/The Titan's War.md",
     "Lore/The Titans.md",
     "Lore/The World Creation.md",
-    "Lore/Organizations/The Order of Hammers.md",
-    "Lore/Dislikes.md",
     "W.md",
     "Welcome.md",
-    "Lore/Places/Untitled.md",
     "DM Notes/Game World.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
