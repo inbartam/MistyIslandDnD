@@ -1,7 +1,6 @@
 The Dusk is a powerful, semi-legal organization on [[../Places/Islands#**Asentra**|The Anchor]]. The guild operates both as an influential trade organization and network of covert operations. Their influence varies from organizing shipments of goods and controlling tariffs to engaging in smuggling and protection rackets. The Merchants of Dusk walk a thin line between legitimacy and crime. Their influence stretches from the Upper City's council to the Lower City's darkest alleys.
-![[../../Sources/The Merchants of Dusk_s.webp|350]]
+![|350](../../Sources/Dusk_s.webp)
 
-[|350![](../../Sources/gravitas.webp)](../sources)
 ### **History and Origin**
 
 The guild's roots can be traced back to the early days of The Anchor’s development as a trade hub. Initially formed by traders looking to protect their interests, the guild quickly grew into a powerful organization with both lawful and unlawful operations.
