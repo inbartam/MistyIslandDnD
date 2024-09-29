@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Lori.md",
-                "mode": "source",
+                "file": "Lore/Places/Eatheria.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Lori.md",
+                "file": "Lore/Places/Eatheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Lori.md",
+                "file": "Lore/Places/Eatheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Lori.md"
+                "file": "Lore/Places/Eatheria.md"
               }
             }
           },
@@ -228,11 +228,13 @@
   },
   "active": "afc60864b99c2b43",
   "lastOpenFiles": [
+    "Sources/Eatheria-20240929172146912.webp",
+    "Players/Lori.md",
+    "Lore/Places/Eatheria.md",
     "Lore/The Titan's War.md",
     "Lore/The Titans.md",
     "DM Notes/Xalara - to Ben.md",
     "DM Notes/Xalara - Origin.md",
-    "Players/Lori.md",
     "Lore/The Gods.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "Sources/Dusk_s.webp",
@@ -253,7 +255,6 @@
     "Lore/The World Creation.md",
     "W.md",
     "Welcome.md",
-    "DM Notes/Game World.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
@@ -263,7 +264,6 @@
     "Sources/The Gods-20240922002202917.webp",
     "Sources/The Gods-20240922003216370.webp",
     "Sources/The Hammer Tia-20240926112637960.webp",
-    "z_tamplates/God Template.md",
     "DM Notes/NPCS",
     "Players",
     "New folder",
