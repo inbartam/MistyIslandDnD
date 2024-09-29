@@ -26,3 +26,9 @@ After a particular motivating preach, an old god decided that Lori posed a dange
 Now he doesn't have any more proofs.
 
 His purpose now is to find how what happened, and to take revenge on all the gods alike. gods shouldn't play with mortals lives, and this stupid way of "believing" onto somebody to grant them grand powers makes the people not think if they are manipulated to worship.
+
+
+יש לו מטרה מסוימת - לא חושב שאנשים צריכים להעריץ אלים. מנסים לנצל (אסונות) -> תפילה -> כוח 
+מטיף לאנשים על האמת שלו של האלים, נע ונד, 
+
+מנסה לאחד, 
