@@ -6,7 +6,7 @@
 
 ## Early Life
 
-Tieflings were never loved much in the Anchor.
+Tieflings were never loved much in [[../Lore/Places/Islands#**Asentra**|the Anchor]].
 
 Their hellish appearance and leaning towards the chaotic and the strange instantly makes other people feel uncomfortable around them.
 
@@ -48,7 +48,7 @@ The other kids on the streets soon started to call him 'Brighthorn'.
 
 Reaching the age of ten, Mordek Brighthorn was already a rough, gritty criminal.
 
-That's when he met Alvyn.
+That's when he met [[../DM Notes/NPCS/Alvyn Doublelock|Alvyn Doublelock]].
 
 A humbly dressed small gnome, he walked the street in a proud, self-confident way, that to Mordek screamed 'rob me! I'm so tiny and rich!'.
 
@@ -68,7 +68,7 @@ Did the gnome not notice that he was a Tiefling?.
 
 He also must have seen the shock on Mordek's face, as he said 'My boy. You can probably rob half the island blind, but not me. And do not think for a moment your heritage has escaped me. I simply care more for what you can do than who your parents are. I'm **Alvyn Doublelock**, and if you'd care to join me, we could make a fine thief out of you.'
 
-Alvyn was, as it turned out, a **Master Thief in the Thieves Guild**.
+Alvyn was, as it turned out, a **Master Thief in the [[../Lore/Organizations/The Merchants of Dusk|Thieves Guild]].**
 
 Alvyn quickly became Mordek's mentor and friend, and Mordek quickly became Alvyn's best student.
 
@@ -120,7 +120,7 @@ This was a judge, a Hammer, by the look of her official vest that peeked out fro
 
 Curious. He expected to face some form of judge for this crime, just not this soon.
 
-"You'll do well enough. I am Thia. "
+"You'll do well enough. I am [[../DM Notes/NPCS/The Hammer Tia|Tia]]. "
 
 As she spoke, he saw a beautiful elven face emerge from the shadows of her cowl.
 
@@ -140,7 +140,7 @@ Don't be confused, Mordek would kill the occasional Guard or sentry when it was 
 
 He refused to kill anyone that wasn't necessary for the success of a job.
 
-This included children, the elderly, and a fish merchant called Nelly that always seemed fond of him.
+This included children, the elderly, and a fish merchant called [[../DM Notes/NPCS/Nelly|Nelly]] that always seemed fond of him.
 
 Every time his blade would sink into the heart of a victim, Mordek would think of his mother.
 
