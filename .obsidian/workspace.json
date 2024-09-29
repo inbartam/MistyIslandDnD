@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/NPCS/The Hammer Tia.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/NPCS/The Hammer Tia.md",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/NPCS/The Hammer Tia.md",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/NPCS/The Hammer Tia.md"
+                "file": "Summary.md"
               }
             }
           },
@@ -254,6 +254,9 @@
   },
   "active": "f1b5b84bf7ee7859",
   "lastOpenFiles": [
+    "Lore/Organizations/The Thief Guild.md",
+    "Lore/Organizations/Orders.md",
+    "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "DM Notes/NPCS/Nelly.md",
     "Lore/The Gods.md",
@@ -264,15 +267,13 @@
     "Lore/The Titan's War.md",
     "Lore/The Titans.md",
     "Lore/The World Creation.md",
-    "Lore/Untitled/Orders.md",
-    "Lore/Untitled/The Order of Hammers.md",
+    "Lore/Organizations/The Order of Hammers.md",
     "Lore/Dislikes.md",
     "W.md",
     "Welcome.md",
     "Lore/Places/Untitled.md",
     "DM Notes/Game World.md",
     "Sources/The Human Belt-20240926171316758.webp",
-    "DM Notes/NPCS/The Hammer Tia.md",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
     "Sources/Gravitas symbos.webp",
@@ -290,13 +291,12 @@
     "Players/Lori.md",
     "NPCSAlvyn.md",
     "DM Notes/NPCS",
-    "Players/Mordek Bright-horn.md",
     "Players",
     "New folder",
     "Lore/Places",
     "DM Notes",
     "Untitled",
-    "Lore/Untitled",
+    "Lore/Organizations",
     "z_tamplates",
     "Sources",
     "Lore"
