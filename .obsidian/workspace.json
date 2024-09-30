@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba00316a87c78975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RINAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e77dabc32a881012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Titans.md",
+                "file": "DM Notes/NPCS/Nelly.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RINAT.md",
+                "file": "DM Notes/NPCS/Nelly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RINAT.md",
+                "file": "DM Notes/NPCS/Nelly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RINAT.md"
+                "file": "DM Notes/NPCS/Nelly.md"
               }
             }
           },
@@ -180,36 +168,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "502dd67208a688ec",
+  "active": "e77dabc32a881012",
   "lastOpenFiles": [
+    "DM Notes/NPCS/The Hammer Tia.md",
+    "DM Notes/NPCS/Thief Guild Master.md",
+    "DM Notes/NPCS/Nelly.md",
+    "DM Notes/NPCS/Alvyn Doublelock.md",
+    "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
+    "Lore/Places/Etheria - The Crown of the Human Empire.md",
+    "Lore/Cassidian Dynasty.md",
+    "Welcome.md",
+    "Lore/The Titans.md",
+    "RINAT.md",
     "Players/Lori.md",
     "Lore/The Gods.md",
     "The Human Belt.md",
-    "RINAT.md",
     "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/Xalara - Origin.md",
     "DM Notes/Game World.md",
-    "Lore/Places/Eatheria.md",
     "Sources/Eatheria-20240929172146912.webp",
     "Lore/The Titan's War.md",
-    "Lore/The Titans.md",
     "DM Notes/Xalara - to Ben.md",
     "Sources/Dusk_s.webp",
     "One Shot - Vikings.md",
-    "Lore/Organizations/The Order of Hammers.md",
     "Players/Mordek Bright-horn.md",
-    "DM Notes/NPCS/Alvyn Doublelock.md",
     "Lore/Organizations/Orders.md",
-    "DM Notes/NPCS/Thief Guild Master.md",
     "Lore/Places/Islands.md",
     "Summary.md",
     "Lore/Dislikes.md",
-    "DM Notes/NPCS/The Hammer Tia.md",
-    "DM Notes/NPCS/Nelly.md",
     "Campaigns.md",
-    "Lore/The World Creation.md",
-    "Welcome.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
