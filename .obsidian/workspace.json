@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/NPCS/Nelly.md",
+                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/NPCS/Nelly.md",
+                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/NPCS/Nelly.md",
+                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/NPCS/Nelly.md"
+                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "e77dabc32a881012",
   "lastOpenFiles": [
+    "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Thief Guild Master.md",
-    "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
