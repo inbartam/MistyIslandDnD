@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Players -DM/Lori.md",
+                "file": "Lore/Organizations/The Phoenix Guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Players -DM/Lori.md",
+                "file": "Lore/Organizations/The Phoenix Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Players -DM/Lori.md",
+                "file": "Lore/Organizations/The Phoenix Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Players -DM/Lori.md"
+                "file": "Lore/Organizations/The Phoenix Guard.md"
               }
             }
           },
@@ -170,12 +170,12 @@
   },
   "active": "e77dabc32a881012",
   "lastOpenFiles": [
-    "Players/Lori.md",
-    "DM Notes/Players -DM/Lori.md",
-    "DM Notes/Players -DM",
-    "Lore/Organizations/The Phoenix Guard.md",
-    "Sources/The Phoenix Guard-20241001163434536.webp",
     "Lore/Cassidian Dynasty.md",
+    "Lore/Organizations/The Phoenix Guard.md",
+    "DM Notes/Players -DM/Lori.md",
+    "Players/Lori.md",
+    "DM Notes/Players -DM",
+    "Sources/The Phoenix Guard-20241001163434536.webp",
     "Sources/Cassidian Dynasty-20241001163324808.webp",
     "Sources/The Phoenix Guard-20241001163113365.webp",
     "Lore/Organizations/The Order of Hammers.md",
