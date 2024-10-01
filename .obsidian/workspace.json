@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Organizations/The Order of Hammers.md",
+                "file": "DM Notes/Players -DM/Lori.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Organizations/The Order of Hammers.md",
+                "file": "DM Notes/Players -DM/Lori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Organizations/The Order of Hammers.md",
+                "file": "DM Notes/Players -DM/Lori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Organizations/The Order of Hammers.md"
+                "file": "DM Notes/Players -DM/Lori.md"
               }
             }
           },
@@ -170,23 +170,28 @@
   },
   "active": "e77dabc32a881012",
   "lastOpenFiles": [
+    "Players/Lori.md",
+    "DM Notes/Players -DM/Lori.md",
+    "DM Notes/Players -DM",
     "Lore/Organizations/The Phoenix Guard.md",
+    "Sources/The Phoenix Guard-20241001163434536.webp",
+    "Lore/Cassidian Dynasty.md",
+    "Sources/Cassidian Dynasty-20241001163324808.webp",
+    "Sources/The Phoenix Guard-20241001163113365.webp",
+    "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/Orders.md",
     "Lore/The Gods.md",
     "DM Notes/NPCS/Untitled.md",
     "Lore/Organizations/The Steel Brotherhood.md",
-    "Lore/Cassidian Dynasty.md",
     "DM Notes/NPCS/Life Cleric of Oversir.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Thief Guild Master.md",
     "DM Notes/Game World.md",
-    "Players/Lori.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
     "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
-    "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "Welcome.md",
     "Lore/The Titans.md",
@@ -197,15 +202,11 @@
     "Lore/The Titan's War.md",
     "DM Notes/Xalara - to Ben.md",
     "Sources/Dusk_s.webp",
-    "One Shot - Vikings.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
     "Sources/Gravitas symbos.webp",
     "Sources/Terram_S.webp",
-    "Sources/The Gods-20240920180509077.webp",
-    "Sources/The Gods-20240922002202917.webp",
-    "Sources/The Gods-20240922003216370.webp",
     "DM Notes/NPCS",
     "Players",
     "New folder",
@@ -214,7 +215,6 @@
     "Untitled",
     "Lore/Organizations",
     "z_tamplates",
-    "Sources",
-    "Lore"
+    "Sources"
   ]
 }
