@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Gods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe319b61b16afe0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Organizations/The Aureate Shields.md",
+                "file": "Lore/Organizations/The Order of Hammers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Organizations/The Aureate Shields.md",
+                "file": "Lore/Organizations/The Order of Hammers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Organizations/The Aureate Shields.md",
+                "file": "Lore/Organizations/The Order of Hammers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Organizations/The Aureate Shields.md"
+                "file": "Lore/Organizations/The Order of Hammers.md"
               }
             }
           },
@@ -181,10 +168,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe319b61b16afe0d",
+  "active": "e77dabc32a881012",
   "lastOpenFiles": [
+    "Lore/Organizations/The Phoenix Guard.md",
     "Lore/Organizations/Orders.md",
-    "Lore/Organizations/The Aureate Shields.md",
+    "Lore/The Gods.md",
+    "DM Notes/NPCS/Untitled.md",
+    "Lore/Organizations/The Steel Brotherhood.md",
     "Lore/Cassidian Dynasty.md",
     "DM Notes/NPCS/Life Cleric of Oversir.md",
     "DM Notes/NPCS/Nelly.md",
@@ -193,7 +183,6 @@
     "DM Notes/Game World.md",
     "Players/Lori.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
-    "Lore/The Gods.md",
     "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
     "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
@@ -209,8 +198,6 @@
     "DM Notes/Xalara - to Ben.md",
     "Sources/Dusk_s.webp",
     "One Shot - Vikings.md",
-    "Players/Mordek Bright-horn.md",
-    "Lore/Places/Islands.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
