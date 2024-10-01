@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Mordek Bright-horn 1.md",
-                "mode": "preview",
+                "file": "Lore/The Gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe319b61b16afe0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Organizations/The Aureate Shields.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Mordek Bright-horn 1.md",
+                "file": "Lore/Organizations/The Aureate Shields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Mordek Bright-horn 1.md",
+                "file": "Lore/Organizations/The Aureate Shields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Mordek Bright-horn 1.md"
+                "file": "Lore/Organizations/The Aureate Shields.md"
               }
             }
           },
@@ -168,36 +181,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e77dabc32a881012",
+  "active": "fe319b61b16afe0d",
   "lastOpenFiles": [
-    "Lore/Places/Etheria - The Crown of the Human Empire.md",
-    "Lore/The Gods.md",
+    "Lore/Organizations/Orders.md",
+    "Lore/Organizations/The Aureate Shields.md",
+    "Lore/Cassidian Dynasty.md",
+    "DM Notes/NPCS/Life Cleric of Oversir.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Thief Guild Master.md",
+    "DM Notes/Game World.md",
+    "Players/Lori.md",
+    "Lore/Places/Etheria - The Crown of the Human Empire.md",
+    "Lore/The Gods.md",
+    "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
+    "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
-    "Lore/Cassidian Dynasty.md",
     "Welcome.md",
     "Lore/The Titans.md",
     "RINAT.md",
-    "Players/Lori.md",
     "The Human Belt.md",
-    "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/Xalara - Origin.md",
-    "DM Notes/Game World.md",
     "Sources/Eatheria-20240929172146912.webp",
     "Lore/The Titan's War.md",
     "DM Notes/Xalara - to Ben.md",
     "Sources/Dusk_s.webp",
     "One Shot - Vikings.md",
     "Players/Mordek Bright-horn.md",
-    "Lore/Organizations/Orders.md",
     "Lore/Places/Islands.md",
-    "Summary.md",
-    "Lore/Dislikes.md",
-    "Campaigns.md",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
