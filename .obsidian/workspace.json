@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
-                "mode": "source",
+                "file": "DM Notes/Mordek Bright-horn 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
+                "file": "DM Notes/Mordek Bright-horn 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md",
+                "file": "DM Notes/Mordek Bright-horn 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Places/Etheria - The Crown of the Human Empire.md"
+                "file": "DM Notes/Mordek Bright-horn 1.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "e77dabc32a881012",
   "lastOpenFiles": [
-    "Lore/The Gods.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
+    "Lore/The Gods.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/NPCS/Thief Guild Master.md",
