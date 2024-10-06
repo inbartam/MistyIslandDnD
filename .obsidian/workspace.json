@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Organizations/The Phoenix Guard.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Organizations/The Phoenix Guard.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Organizations/The Phoenix Guard.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Organizations/The Phoenix Guard.md"
+                "file": "DM Notes/Sessions/Session 1.md"
               }
             }
           },
@@ -170,8 +170,18 @@
   },
   "active": "e77dabc32a881012",
   "lastOpenFiles": [
-    "Lore/Cassidian Dynasty.md",
+    "Lore/Organizations/The Merchants of Dusk.md",
+    "DM Notes/Sessions/Session 1.md",
+    "DM Notes/Sessions",
+    "Lore/The Gods.md",
+    "DM Notes/NPCS/The Hammer Tia.md",
+    "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
+    "DM Notes/NPCS/Life Cleric of Oversir.md",
+    "DM Notes/NPCS/Nelly.md",
+    "DM Notes/NPCS/Thief Guild Master.md",
+    "DM Notes/NPCS/Untitled.md",
     "Lore/Organizations/The Phoenix Guard.md",
+    "Lore/Cassidian Dynasty.md",
     "DM Notes/Players -DM/Lori.md",
     "Players/Lori.md",
     "DM Notes/Players -DM",
@@ -180,19 +190,11 @@
     "Sources/The Phoenix Guard-20241001163113365.webp",
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/Orders.md",
-    "Lore/The Gods.md",
-    "DM Notes/NPCS/Untitled.md",
     "Lore/Organizations/The Steel Brotherhood.md",
-    "DM Notes/NPCS/Life Cleric of Oversir.md",
-    "DM Notes/NPCS/Nelly.md",
-    "DM Notes/NPCS/The Hammer Tia.md",
-    "DM Notes/NPCS/Thief Guild Master.md",
     "DM Notes/Game World.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
-    "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
     "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
-    "Lore/Organizations/The Merchants of Dusk.md",
     "Welcome.md",
     "Lore/The Titans.md",
     "RINAT.md",
@@ -200,7 +202,6 @@
     "DM Notes/Xalara - Origin.md",
     "Sources/Eatheria-20240929172146912.webp",
     "Lore/The Titan's War.md",
-    "DM Notes/Xalara - to Ben.md",
     "Sources/Dusk_s.webp",
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
@@ -214,7 +215,6 @@
     "DM Notes",
     "Untitled",
     "Lore/Organizations",
-    "z_tamplates",
-    "Sources"
+    "z_tamplates"
   ]
 }
