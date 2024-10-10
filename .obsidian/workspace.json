@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e77dabc32a881012",
+            "id": "798f62ebb433ef83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Princess Aelira Valarys.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Princess Aelira Valarys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Princess Aelira Valarys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Gods.md"
+                "file": "Princess Aelira Valarys.md"
               }
             }
           },
@@ -168,8 +168,51 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e77dabc32a881012",
+  "floating": {
+    "id": "a9bab1c0d845081a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2b0b3bcf87fdeaca",
+        "type": "window",
+        "children": [
+          {
+            "id": "898ee80891e56ce3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e77dabc32a881012",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Notes/Mordek Bright-horn 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3849,
+        "y": 141,
+        "width": 603,
+        "height": 603,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "798f62ebb433ef83",
   "lastOpenFiles": [
+    "DM Notes/NPCS/Roderik Thorne.md",
+    "Princess Aelira Valarys.md",
+    "DM Notes/NPCS/Princess Aelira Vlarys.md",
+    "DM Notes/NPCS/Eilon Tohrne.md",
+    "DM Notes/Sessions/Session 1.md",
+    "DM Notes/NPCS/Alvyn Doublelock.md",
     "DM Notes/Mordek Bright-horn 1.md",
     "Lore/The Gods.md",
     "Lore/Organizations/The Phoenix Guard.md",
@@ -181,12 +224,10 @@
     "Lore/Organizations/The Merchants of Dusk.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
-    "DM Notes/Sessions/Session 1.md",
     "DM Notes/Sessions",
     "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
     "DM Notes/NPCS/Life Cleric of Oversir.md",
     "DM Notes/NPCS/Thief Guild Master.md",
-    "DM Notes/NPCS/Untitled.md",
     "Lore/Cassidian Dynasty.md",
     "DM Notes/Players -DM/Lori.md",
     "Players/Lori.md",
@@ -197,10 +238,6 @@
     "Lore/Organizations/Orders.md",
     "DM Notes/Game World.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
-    "DM Notes/NPCS/Alvyn Doublelock.md",
-    "Welcome.md",
-    "RINAT.md",
-    "The Human Belt.md",
     "Sources/Eatheria-20240929172146912.webp",
     "Sources/Dusk_s.webp",
     "Sources/The Human Belt-20240926171316758.webp",
