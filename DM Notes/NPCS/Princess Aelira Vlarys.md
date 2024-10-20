@@ -1,0 +1,10 @@
+- **Race**: High Elf
+- **Age**: 120
+- **Role**: Princess of the _Valarys Dynasty_, a prestigious noble family from Crescenta
+- **Appearance**: Aelira has the ethereal beauty typical of high elves, with long, platinum-blonde hair and piercing sapphire eyes. She moves with graceful poise, often dressed in flowing, elegant robes adorned with intricate designs representing her house’s magical heritage.
+- **Personality**: Aelira is intelligent, composed, and politically savvy. While she maintains the refined grace expected of a high elf princess, she is also highly strategic, always thinking several moves ahead in political games. Her alliance with the Thorne family is as much a move of ambition for her house as it is a marriage.
+- **Key Motivation**: To strengthen the Valarys dynasty’s influence over the Guild of Voices and solidify Crescenta’s dominance in Asentra’s political landscape. She also seeks to ensure that the Valarys name is associated with power both in magic and politics.
+- **Secrets**: she is not actually a true-blooded member of the Valarys family. In fact, she was adopted as an infant after her real parents, elven rebels, were killed by Crescenta’s elite. The Valarys family took her in, raising her as their own to preserve their family’s image and political standing. Aelira has only recently discovered this truth, and it has shaken her to the core. While she remains outwardly loyal to the Valarys dynasty, she is secretly investigating her real parents’ past and their connection to a rebel movement that sought to challenge Crescenta's nobility.
+- **Notable Relationships**:
+    - **[[Elion Thorne]]**: Her future husband, with whom she shares a cordial relationship. She respects his idealism but is aware of his political naivety.
+    - **[[Roderik Thorne]]**: She respects him as a formidable political player, but is wary of his true intentions.
