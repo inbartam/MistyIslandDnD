@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/Session 1.md",
+                "file": "z_tamplates/God Template.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "God Template"
+            }
+          },
+          {
+            "id": "08987d2f5bc0d5d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,7 +108,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Sessions/Session 1.md",
+                "file": "z_tamplates/God Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for God Template"
             }
           },
           {
@@ -113,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Sessions/Session 1.md",
+                "file": "z_tamplates/God Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from God Template"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/Session 1.md"
-              }
+                "file": "z_tamplates/God Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of God Template"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -142,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -168,76 +201,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "a9bab1c0d845081a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2b0b3bcf87fdeaca",
-        "type": "window",
-        "children": [
-          {
-            "id": "898ee80891e56ce3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e77dabc32a881012",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DM Notes/Mordek Bright-horn 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3849,
-        "y": 141,
-        "width": 603,
-        "height": 603,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "798f62ebb433ef83",
+  "active": "08987d2f5bc0d5d7",
   "lastOpenFiles": [
-    "Lore/Organizations/Church of the Overseer.md",
+    "DM Notes/NPCS/Alvyn Doublelock.md",
+    "Lore/Organizations/The Steel Brotherhood.md",
+    "DM Notes/Players -DM/Lori - N.md",
+    "Lore/Organizations/The Empire of Man.md",
+    "DM Notes/NPCS/Luci.md",
+    "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
+    "Lore/Places/Marstell - Capital of Etheria.md",
+    "Lore/Places/Etheria - The Crown of the Human Empire.md",
+    "DM Notes/Players -DM/Lori.md",
+    "DM Notes/Mordek Bright-horn 1.md",
     "DM Notes/Sessions/Session 1.md",
+    "Lore/Organizations/Church of the Overseer.md",
     "DM Notes/NPCS/Thief Guild Master.md",
     "DM Notes/NPCS/Roderik Thorne.md",
     "DM Notes/NPCS/Princess Aelira Vlarys.md",
     "DM Notes/NPCS/Eilon Tohrne.md",
     "Princess Aelira Valarys.md",
-    "DM Notes/NPCS/Alvyn Doublelock.md",
-    "DM Notes/Mordek Bright-horn 1.md",
     "Lore/The Gods.md",
     "Lore/Organizations/The Phoenix Guard.md",
     "Lore/The Titans.md",
     "DM Notes/Xalara - Origin.md",
     "DM Notes/Xalara - to Ben.md",
-    "Lore/Organizations/The Steel Brotherhood.md",
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "DM Notes/NPCS/Nelly.md",
     "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/Sessions",
-    "DM Notes/NPCS/Duchess Eleanor Greenfield.md",
-    "DM Notes/NPCS/Life Cleric of Oversir.md",
-    "Lore/Cassidian Dynasty.md",
-    "DM Notes/Players -DM/Lori.md",
-    "Players/Lori.md",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",
     "Sources/Cassidian Dynasty-20241001163324808.webp",
     "Sources/The Phoenix Guard-20241001163113365.webp",
-    "Lore/Organizations/Orders.md",
-    "DM Notes/Game World.md",
     "Sources/Eatheria-20240929172146912.webp",
     "Sources/Dusk_s.webp",
     "Sources/The Human Belt-20240926171316758.webp",
