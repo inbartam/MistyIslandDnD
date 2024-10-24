@@ -10,7 +10,12 @@
 	* You wait some minutes and they all standup, looks like the meeting is over. (They talked about zone of control and ships coming).
 	* Go into his room, *"Been waiting for you,"*, handing you a folded note. *"We've got a big and important job"*. On the note you see those words ***[[Elion Thorne]], Wedding, The Golden Quarter***. 
 	* ***One of the council members is marrying a noble elf from Crescenta in the Golden Quarter. It’s high-profile, and there’s a gift being exchanged—one that the guild wants."*** Your job is to take the _____
-* **Lori**
+* **Lori** - 
+	* "Come on man, please release me" a young halfling child yell at you, while you start to cup him. "If you want release me my big brother will come"
+		* DC 15 insight - you can feel he his telling the truth 
+	* Other day new job. You had to keep the carriage safe, and you saw this maggot trying to "catch a ride" his words.
+	* The local holding cell is not that far away, "Go there, lock him up", the other guard asks you.
+	* Depart from the group and moving him - meeting his big brother. A Goliath. 
 * **Ruth**
 * **Natti** - 
 	* DC 10 CON save - vomit from the waves.

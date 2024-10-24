@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_tamplates/God Template.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "God Template"
-            }
-          },
-          {
-            "id": "08987d2f5bc0d5d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Session 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_tamplates/God Template.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for God Template"
+              "title": "Backlinks for Session 1"
             }
           },
           {
@@ -138,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_tamplates/God Template.md",
+                "file": "DM Notes/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from God Template"
+              "title": "Outgoing links from Session 1"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_tamplates/God Template.md"
+                "file": "DM Notes/Players -DM/Lori - N.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of God Template"
+              "title": "Outline of Lori - N"
             }
           },
           {
@@ -201,14 +188,58 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "08987d2f5bc0d5d7",
+  "floating": {
+    "id": "f75329317e5e531e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af0c19a92804f372",
+        "type": "window",
+        "children": [
+          {
+            "id": "c985743bac5ef19b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4f8d9fb6bafec07",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Notes/Players -DM/Lori - N.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lori - N"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2225,
+        "y": 199,
+        "width": 2884,
+        "height": 1564,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f4f8d9fb6bafec07",
   "lastOpenFiles": [
+    "DM Notes/NPCS/Udi - priest of the guild.md",
+    "DM Notes/Players -DM/Lori - N.md",
+    "Lore/Organizations/Guild of Nothing.md",
+    "Lore/Cassidian Dynasty.md",
+    "Lore/Organizations/The Empire of Man.md",
+    "Elion Thorne.md",
+    "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
+    "z_tamplates/God Template.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "Lore/Organizations/The Steel Brotherhood.md",
-    "DM Notes/Players -DM/Lori - N.md",
-    "Lore/Organizations/The Empire of Man.md",
     "DM Notes/NPCS/Luci.md",
-    "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
     "Lore/Places/Marstell - Capital of Etheria.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "DM Notes/Players -DM/Lori.md",
@@ -224,11 +255,6 @@
     "Lore/Organizations/The Phoenix Guard.md",
     "Lore/The Titans.md",
     "DM Notes/Xalara - Origin.md",
-    "DM Notes/Xalara - to Ben.md",
-    "Lore/Organizations/The Order of Hammers.md",
-    "Lore/Organizations/The Merchants of Dusk.md",
-    "DM Notes/NPCS/Nelly.md",
-    "DM Notes/NPCS/The Hammer Tia.md",
     "DM Notes/Sessions",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",

@@ -1,12 +1,13 @@
 חיים אישיים
 Lori is the son of the Head Phenix Guard,[[../NPCS/Don - Former head of the Phoenixs| Don DeShield]]. 
-The DeShield and the Highrulers were friends, Don helped *Andurii* choose his wife, the queen Rose, and in turn the king himself was the one who married Don and Lori's mother, Luci.
-Luci was a simple villager, but a beautiful one. In one of the king's errands, Don replenished in the village of <VILLAGE>, south west of the capital [[../../Lore/Places/Marstell - Capital of Etheria|Marstell]]. 
+The DeShield and the Highrulers were friends, Don helped [[../../Lore/Cassidian Dynasty#Andurii the second|Andurii]] choose his wife, the queen Rose, and in turn the king himself was the one who married Don and Lori's mother, Luci.
+Luci was a simple villager, but a beautiful one. In one of the king's errands, Don replenished in the village of <VILLAGE>, south west of the capital [[../../Lore/Places/Marstell - Capital of Etheria|Marstell]].
+
 Luci was intelligent, smart and despite her common background, she was the perfect companion to Don. she bear 3 children.
 Yon, the elder son was too in the honor guard but was killed in action while serving in the fight of <FIGHT>.  Lori all his life inspired by his brother, follow suit and served as well in legacy the Phenix guard. 
 
 Lori is whole life trained with various weapons with his dad - spears, swords and shields.
-Lori's best friend was the prince Anduran, the next in line after the king <KING>.
+Lori's best friend was the prince [[../../Lore/Cassidian Dynasty#Anduran the first|Anduran]], the next in line after the king <KING>.
 Anduran was Lori's sparing match, his lifelong friend and a true companion.
 
 Don died of an mysterious heart attack in his sleep.
@@ -61,7 +62,7 @@ He made the arrangements beforehand, putting his possessions and family in a boa
 
 Missioner
 In the far land of <PLACE>, He did some odd jobs to support his family.
-Lori helped in the Guide of Anti-Christ. In a journey to <PLACE> he talked to the priest Udi and describe his visions.
+Lori helped in the [[../../Lore/Organizations/Guild of Nothing|Guild of Nothing]]. In a journey to <PLACE> he talked to the priest [[../NPCS/Udi - priest of the guild|Udi]] and describe his visions.
 The priest said while visions can be real, most of the time they are used for manipulation and no visions are 100% accurate. and the lightning struck dove is entirely in god's power to arrange such thing.
 "But what about the expulsion of the Elves and Dwarves? and the dwarves' brigade?"
 The Udi explained: "You are right it's convincing"
