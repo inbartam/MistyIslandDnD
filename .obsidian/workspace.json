@@ -11,14 +11,10 @@
             "id": "798f62ebb433ef83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Notes/Players -DM/Lori - N.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Lori - N"
+              "title": "Outline"
             }
           },
           {
@@ -188,49 +182,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "f75329317e5e531e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "af0c19a92804f372",
-        "type": "window",
-        "children": [
-          {
-            "id": "c985743bac5ef19b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f4f8d9fb6bafec07",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DM Notes/Players -DM/Lori - N.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lori - N"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -2225,
-        "y": 199,
-        "width": 2884,
-        "height": 1564,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f4f8d9fb6bafec07",
+  "active": "798f62ebb433ef83",
   "lastOpenFiles": [
-    "DM Notes/NPCS/Udi - priest of the guild.md",
+    "DM Notes/Sessions/Session 1.md",
     "DM Notes/Players -DM/Lori - N.md",
+    "DM Notes/NPCS/Udi - priest of the guild.md",
     "Lore/Organizations/Guild of Nothing.md",
     "Lore/Cassidian Dynasty.md",
     "Lore/Organizations/The Empire of Man.md",
@@ -244,7 +200,6 @@
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "DM Notes/Players -DM/Lori.md",
     "DM Notes/Mordek Bright-horn 1.md",
-    "DM Notes/Sessions/Session 1.md",
     "Lore/Organizations/Church of the Overseer.md",
     "DM Notes/NPCS/Thief Guild Master.md",
     "DM Notes/NPCS/Roderik Thorne.md",
