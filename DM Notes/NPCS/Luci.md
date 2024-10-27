@@ -1,1 +1,1 @@
-Lori mom
+[[../../Players/Lori|Lori]] mom
