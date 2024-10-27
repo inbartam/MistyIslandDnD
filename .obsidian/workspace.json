@@ -11,10 +11,14 @@
             "id": "798f62ebb433ef83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruthenda Vellarmir (Ruth)"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ruthenda Vellarmir (Ruth)"
             }
           },
           {
@@ -184,6 +190,13 @@
   },
   "active": "798f62ebb433ef83",
   "lastOpenFiles": [
+    "DM Notes/Sessions/Session 1.md",
+    "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
+    "DM Notes/Players -DM/Lori - N.md",
+    "DM Notes/Mordek Bright-horn 1.md",
+    "DM Notes/NPCS/Salazar Valfir.md",
+    "Sources/Salazar Valfir-20241027110940764.webp",
+    "Sources/Salazar Valfir-20241027110855757.webp",
     "DM Notes/Players -DM/Thiorin Valfir.md",
     "Lore/The Gods.md",
     "DM Notes/NPCS/Salalas Kelqen.md",
@@ -191,11 +204,9 @@
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "Lore/Organizations/The Empire of Man.md",
-    "DM Notes/Sessions/Session 1.md",
     "DM Notes/NPCS/Nelly.md",
     "Players/Mordek Bright-horn.md",
     "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
-    "DM Notes/Players -DM/Lori - N.md",
     "DM Notes/NPCS/Udi - priest of the guild.md",
     "Lore/Organizations/Guild of Nothing.md",
     "Lore/Cassidian Dynasty.md",
@@ -207,9 +218,6 @@
     "Lore/Places/Marstell - Capital of Etheria.md",
     "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "DM Notes/Players -DM/Lori.md",
-    "DM Notes/Mordek Bright-horn 1.md",
-    "Lore/Organizations/Church of the Overseer.md",
-    "DM Notes/NPCS/Thief Guild Master.md",
     "DM Notes/Sessions",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",
@@ -220,8 +228,6 @@
     "Sources/The Human Belt-20240926171316758.webp",
     "Sources/Terram.webp",
     "Sources/Luxos.webp",
-    "Sources/Gravitas symbos.webp",
-    "Sources/Terram_S.webp",
     "DM Notes/NPCS",
     "Players",
     "New folder",

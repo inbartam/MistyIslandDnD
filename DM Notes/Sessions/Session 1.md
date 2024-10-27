@@ -1,4 +1,12 @@
 ## All Ways Leads to the Anchor
+- [[../Players -DM/Thiorin Valfir|Thiorin Valfir]] - A young half-elf, half-dwarf with a loyal heart, setting out on his first journey beyond his sheltered home. His mission is to deliver a precious gift crafted by his father, but he carries the weight of responsibility and curiosity about the world.
+    
+- [[../Mordek Bright-horn 1|Mordek Bright-horn ]] - A Tiefling rogue raised on the streets of the Anchor, with red horns that have become his distinctive feature. A protégé of Alvyn Doublelock, a Master Thief, Mordek is skilled in stealth and thievery but haunted by a cursed dagger and a mysterious vision tied to his dark past.
+    
+- [[../Players -DM/Lori - N|Lori ]] - The son of Don DeShield, the former Head of the Phoenix Guard, and a skilled warrior raised among the Highrulers of Etheria. He has a complicated history with the royal family, culminating in his assassination of King Andurii following prophetic visions that foretold the kingdom’s downfall.
+    
+- **Ruthenda Vellarmir (Ruth)** - An Aasimar cleric of Valinor, goddess of protection and sacrifice. Originally from a warrior tribe, Ruth spent years caring for the unfortunate, eventually establishing an orphanage that was tragically destroyed. She now seeks the orphans she couldn’t save and harbors a growing thirst for vengeance against those responsible.
+
 
 * **Mordek** - 
 	* **WAKEUP***, **WAKEUP, NOW***, you an deep voice inside your head, you can see the words in your imagination. 
