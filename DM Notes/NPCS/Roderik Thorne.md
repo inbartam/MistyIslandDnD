@@ -8,3 +8,6 @@
 - **Notable Relationships**:
     - **[[Eilon Tohrne]]**: His son, whom he loves but also views as a tool for expanding his influence.
     - **[[Princess Aelira Valarys]]**: His future daughter-in-law, whose connection to the Valarys family is key to his political plans.
+
+
+![[../../Sources/Roderik Thorne-20241027143021808.webp]]

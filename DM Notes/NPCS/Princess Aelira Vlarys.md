@@ -8,3 +8,6 @@
 - **Notable Relationships**:
     - **[[Elion Thorne]]**: Her future husband, with whom she shares a cordial relationship. She respects his idealism but is aware of his political naivety.
     - **[[Roderik Thorne]]**: She respects him as a formidable political player, but is wary of his true intentions.
+    - 
+    - 
+![[../../Sources/Princess Aelira Vlarys-20241027143129775.webp]]

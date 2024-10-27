@@ -8,3 +8,5 @@
 - **Notable Relationships**:
     - **[[Roderik Thorne]]**: His father, whom he respects greatly, though he is unaware of the darker side of Roderik’s operations.
     - **[[Princess Aelira Valarys]]**: His bride-to-be, whom he sees as a crucial political partner and an opportunity to bridge the human and elven worlds.
+
+![[../../Sources/Eilon Tohrne-20241027143144237.webp]]
