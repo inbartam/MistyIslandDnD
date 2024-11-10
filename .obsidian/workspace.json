@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
+                "file": "DM Notes/NPCS/Shadowfang Ravager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 1 - חתונות הן התחלות חדשות"
+              "title": "Shadowfang Ravager"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md"
+                "file": "DM Notes/NPCS/Shadowfang Ravager.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 1 - חתונות הן התחלות חדשות"
+              "title": "Outline of Shadowfang Ravager"
             }
           },
           {
@@ -218,8 +218,9 @@
   },
   "active": "798f62ebb433ef83",
   "lastOpenFiles": [
-    "DM Notes/NPCS/Princess Aelira Vlarys.md",
     "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
+    "DM Notes/NPCS/Shadowfang Ravager.md",
+    "DM Notes/NPCS/Princess Aelira Vlarys.md",
     "DM Notes/NPCS/Eilon Tohrne.md",
     "DM Notes/Sessions/Session 1.md",
     "DM Notes/Players -DM/Lori - N.md",
@@ -249,7 +250,6 @@
     "Lore/Organizations/The Order of Hammers.md",
     "Lore/Organizations/The Empire of Man.md",
     "Players/Mordek Bright-horn.md",
-    "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
     "DM Notes/Sessions",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",
