@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/NPCS/Shadowfang Ravager.md",
+                "file": "DM Notes/Sessions/סשן 2 - האבק יורד.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shadowfang Ravager"
+              "title": "סשן 2 - האבק יורד"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/NPCS/Shadowfang Ravager.md"
+                "file": "DM Notes/Sessions/סשן 2 - האבק יורד.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Shadowfang Ravager"
+              "title": "Outline of סשן 2 - האבק יורד"
             }
           },
           {
@@ -219,6 +219,8 @@
   "active": "798f62ebb433ef83",
   "lastOpenFiles": [
     "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
+    "DM Notes/Sessions/סשן 2 - האבק יורד.md",
+    "Lore/Places/Velvet Chalice.md",
     "DM Notes/NPCS/Shadowfang Ravager.md",
     "DM Notes/NPCS/Princess Aelira Vlarys.md",
     "DM Notes/NPCS/Eilon Tohrne.md",
@@ -248,8 +250,6 @@
     "DM Notes/Players -DM/Thiorin Valfir.md",
     "The Human Belt.md",
     "Lore/Organizations/The Order of Hammers.md",
-    "Lore/Organizations/The Empire of Man.md",
-    "Players/Mordek Bright-horn.md",
     "DM Notes/Sessions",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",
