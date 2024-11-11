@@ -1,4 +1,4 @@
-### **The Shadowed Tankard Tavern**
+### **The Tavern**
 
 - **Description**: The Shadowed Tankard is a rundown tavern in the heart of the Wildspear. Inside, rough-looking patrons sit at scarred wooden tables, nursing drinks under the dim glow of candlelight. The bartender is an older, grizzled dwarf with a cautious eye, watching everyone who enters.
     
