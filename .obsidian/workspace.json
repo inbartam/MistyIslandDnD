@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 2 - כנסיית האור.md",
+                "file": "DM Notes/Sessions/סשן 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 2 - כנסיית האור"
+              "title": "סשן 3"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 2 - כנסיית האור.md"
+                "file": "DM Notes/Sessions/סשן 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 2 - כנסיית האור"
+              "title": "Outline of סשן 3"
             }
           },
           {
@@ -218,11 +218,12 @@
   },
   "active": "798f62ebb433ef83",
   "lastOpenFiles": [
-    "Lore/Places/Rat's Brew.md",
     "DM Notes/Sessions/סשן 2 - כנסיית האור.md",
+    "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
+    "DM Notes/Sessions/סשן 3.md",
+    "Lore/Places/Rat's Brew.md",
     "Lore/The Gods.md",
     "Lore/Places/Velvet Chalice.md",
-    "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
     "Lore/The Titans.md",
     "DM Notes/NPCS/Shadowfang Ravager.md",
     "DM Notes/NPCS/Princess Aelira Vlarys.md",
@@ -249,7 +250,6 @@
     "DM Notes/Mordek Bright-horn 1.md",
     "Sources/Salazar Valfir-20241027110940764.webp",
     "Sources/Salazar Valfir-20241027110855757.webp",
-    "DM Notes/Players -DM/Thiorin Valfir.md",
     "DM Notes/Sessions",
     "DM Notes/Players -DM",
     "Sources/The Phoenix Guard-20241001163434536.webp",
