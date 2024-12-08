@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 3 - יש משהו מסריח באוויר.md",
+                "file": "DM Notes/Sessions/סשן 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 3 - יש משהו מסריח באוויר"
-            }
-          },
-          {
-            "id": "1b624a3d0d3fc061",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "סשן 4"
             }
           },
           {
@@ -61,8 +49,7 @@
               "title": "Lana del Ray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 3 - יש משהו מסריח באוויר.md"
+                "file": "DM Notes/Sessions/סשן 4.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 3 - יש משהו מסריח באוויר"
+              "title": "Outline of סשן 4"
             }
           },
           {
@@ -229,10 +216,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1b624a3d0d3fc061",
+  "active": "798f62ebb433ef83",
   "lastOpenFiles": [
-    "Lore/Places/Rat's Brew.md",
+    "DM Notes/Untitled.md",
+    "DM Notes/Monsters",
+    "DM Notes/Monsters/Sewer Leeches (Swarm).md",
+    "DM Notes/Sessions/סשן 4.md",
     "DM Notes/Sessions/סשן 3 - יש משהו מסריח באוויר.md",
+    "Lore/Places/Rat's Brew.md",
     "DM Notes/Sessions/סשן 2 - כנסיית האור.md",
     "DM Notes/Players -DM/Thiorin Valfir.md",
     "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
@@ -254,13 +245,9 @@
     "DM Notes/NPCS/Salazar Valfir.md",
     "DM Notes/NPCS/Salalas Kelqen.md",
     "DM Notes/NPCS/Nelly.md",
-    "DM Notes/NPCS/Luci.md",
     "Sources/Eilon Tohrne-20241027143144237.webp",
     "Sources/Princess Aelira Vlarys-20241027143129775.webp",
-    "DM Notes/NPCS/Life Cleric of Oversir.md",
     "Sources/Roderik Thorne-20241027143021808.webp",
-    "DM Notes/Players -DM/Lori.md",
-    "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
     "Sources/Salazar Valfir-20241027110940764.webp",
     "Sources/Salazar Valfir-20241027110855757.webp",
     "DM Notes/Sessions",
@@ -275,7 +262,6 @@
     "Lore/Places",
     "DM Notes",
     "Untitled",
-    "Lore/Organizations",
-    "z_tamplates"
+    "Lore/Organizations"
   ]
 }
