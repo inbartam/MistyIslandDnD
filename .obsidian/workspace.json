@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 6 - Into the Sea.md",
+                "file": "DM Notes/Sessions/סשן 7 - המשך.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 6 - Into the Sea"
+              "title": "סשן 7 - המשך"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 6 - Into the Sea.md"
+                "file": "DM Notes/Sessions/סשן 7 - המשך.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 6 - Into the Sea"
+              "title": "Outline of סשן 7 - המשך"
             }
           },
           {
@@ -218,14 +218,20 @@
   },
   "active": "798f62ebb433ef83",
   "lastOpenFiles": [
+    "Sources/סשן 7 - המשך-20250119175512978.webp",
+    "Sources/סשן 7 - המשך-20250119175408232.webp",
+    "DM Notes/Sessions/סשן 6 - Into the Sea.md",
+    "DM Notes/Sessions/סשן 7 - המשך.md",
+    "DM Notes/NPCS/צוות הספינה.md",
+    "DM Notes/NPCS/Lana del Ray.md",
+    "DM Notes/Barony of Emberhold.md",
+    "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
     "DM Notes/Players -DM/Thiorin Valfir.md",
     "DM Notes/NPCS/Salazar Valfir.md",
     "DM Notes/NPCS/Salalas Kelqen.md",
-    "DM Notes/Sessions/סשן 6 - Into the Sea.md",
     "DM Notes/NPCS/Roderik Thorne.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
-    "DM Notes/NPCS/צוות הספינה.md",
     "DM Notes/Players -DM/Lori.md",
     "DM Notes/Players -DM/Lori - N.md",
     "DM Notes/Xalara - Origin.md",
@@ -240,11 +246,6 @@
     "DM Notes/Monsters",
     "DM Notes/Monsters/Sewer Leeches (Swarm).md",
     "Lore/Places/Rat's Brew.md",
-    "DM Notes/Sessions/סשן 2 - כנסיית האור.md",
-    "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
-    "Lore/Places/Velvet Chalice.md",
-    "Lore/The Titans.md",
-    "DM Notes/NPCS/Shadowfang Ravager.md",
     "Sources/Lana del Ray-20241027154005193.webp",
     "Sources/Eilon Tohrne-20241027143144237.webp",
     "Sources/Princess Aelira Vlarys-20241027143129775.webp",
@@ -256,7 +257,6 @@
     "Sources/The Phoenix Guard-20241001163434536.webp",
     "Sources/Cassidian Dynasty-20241001163324808.webp",
     "Sources/The Phoenix Guard-20241001163113365.webp",
-    "Sources/Eatheria-20240929172146912.webp",
     "DM Notes/NPCS",
     "Players",
     "New folder",
