@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 7 - המשך.md",
+                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 7 - המשך"
+              "title": "סשן 8 - Shadows in the Sea"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 7 - המשך.md"
+                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 7 - המשך"
+              "title": "Outline of סשן 8 - Shadows in the Sea"
             }
           },
           {
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +216,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "798f62ebb433ef83",
+  "active": "502dd67208a688ec",
   "lastOpenFiles": [
+    "DM Notes/Sessions/סשן 7 - המשך.md",
+    "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
     "DM Notes/Sessions/סשן 6 - Into the Sea.md",
     "DM Notes/NPCS/צוות הספינה.md",
-    "DM Notes/Sessions/סשן 7 - המשך.md",
     "Lore/The Gods.md",
     "DM Notes/NPCS/Lana del Ray.md",
     "Sources/סשן 7 - המשך-20250119175512978.webp",
