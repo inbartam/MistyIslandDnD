@@ -53,12 +53,14 @@
             "id": "075df6f3e2e0814c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "סשן 8 - Shadows in the Sea"
             }
           }
         ],
