@@ -48,8 +48,21 @@
               "icon": "lucide-file",
               "title": "Lana del Ray"
             }
+          },
+          {
+            "id": "075df6f3e2e0814c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -167,7 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md"
+                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of סשן 8 - Shadows in the Sea"
@@ -216,7 +233,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "502dd67208a688ec",
+  "active": "075df6f3e2e0814c",
   "lastOpenFiles": [
     "DM Notes/Sessions/סשן 7 - המשך.md",
     "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
