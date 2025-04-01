@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "סשן 8 - Shadows in the Sea"
             }
+          },
+          {
+            "id": "de7cec4d6772bc8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,13 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 8 - Shadows in the Sea"
+              "title": "Outline"
             }
           },
           {
@@ -235,7 +246,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "075df6f3e2e0814c",
+  "active": "de7cec4d6772bc8f",
   "lastOpenFiles": [
     "Lore/The Gods.md",
     "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
