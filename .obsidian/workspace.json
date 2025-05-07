@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/NPCS/Riklin.md",
+                "file": "DM Notes/Sessions/סשן 10 - THE GAMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riklin"
-            }
-          },
-          {
-            "id": "aca263fc657506d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "סשן 10 - THE GAMES"
             }
           },
           {
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DM Notes/Sessions/סשן 10 - THE GAMES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of סשן 10 - THE GAMES"
             }
           },
           {
@@ -260,10 +249,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "aca263fc657506d3",
+  "active": "628cce45775861b6",
   "lastOpenFiles": [
-    "DM Notes/NPCS/Eilon Tohrne.md",
     "DM Notes/NPCS/Riklin.md",
+    "DM Notes/NPCS/Eilon Tohrne.md",
     "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
     "DM Notes/NPCS/Alvyn Doublelock.md",
     "DM Notes/Sessions/סשן 10 - THE GAMES.md",
