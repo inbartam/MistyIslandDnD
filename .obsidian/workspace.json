@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Sessions/סשן 10 - THE GAMES.md",
+                "file": "Lore/Places/Sharbara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "סשן 10 - THE GAMES"
+              "title": "Sharbara"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Sessions/סשן 10 - THE GAMES.md",
+                "file": "Lore/Places/Sharbara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of סשן 10 - THE GAMES"
+              "title": "Outline of Sharbara"
             }
           },
           {
@@ -251,8 +251,8 @@
   },
   "active": "628cce45775861b6",
   "lastOpenFiles": [
-    "Lore/Places/Sharbara.md",
     "DM Notes/Sessions/סשן 10 - THE GAMES.md",
+    "Lore/Places/Sharbara.md",
     "DM Notes/NPCS/Riklin.md",
     "DM Notes/NPCS/Eilon Tohrne.md",
     "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
