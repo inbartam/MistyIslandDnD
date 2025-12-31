@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Places/Sharbara.md",
+                "file": "Lore/The Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sharbara"
+              "title": "The Gods"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Places/Sharbara.md",
+                "file": "Lore/The Gods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sharbara"
+              "title": "Outline of The Gods"
             }
           },
           {
@@ -251,32 +251,32 @@
   },
   "active": "628cce45775861b6",
   "lastOpenFiles": [
-    "DM Notes/Sessions/סשן 10 - THE GAMES.md",
-    "Lore/Places/Sharbara.md",
-    "DM Notes/NPCS/Riklin.md",
-    "DM Notes/NPCS/Eilon Tohrne.md",
-    "DM Notes/NPCS/Don - Former head of the Phoenixs.md",
-    "DM Notes/NPCS/Alvyn Doublelock.md",
-    "DM Notes/Sessions/סשן 9 - חבר חדש.md",
-    "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
-    "DM Notes/Sessions/סשן 8 - Shadows in the Sea.md",
+    "Summary.md",
+    "The Human Belt.md",
+    "RINAT.md",
     "Lore/The Gods.md",
-    "DM Notes/Players -DM/Thiorin Valfir.md",
-    "DM Notes/Players -DM/Lori - N.md",
-    "DM Notes/Players -DM/רובין.md",
+    "Lore/The Titan's War.md",
     "Lore/The World Creation.md",
-    "Lore/Places/Velvet Chalice.md",
-    "Lore/Places/Rat's Brew.md",
-    "Lore/Places/Marstell - Capital of Etheria.md",
-    "Lore/Places/Etheria - The Crown of the Human Empire.md",
+    "Lore/Organizations/The Phoenix Guard.md",
+    "Players/Lori.md",
+    "Lore/Organizations/The Merchants of Dusk.md",
+    "Players/Mordek Bright-horn.md",
     "Lore/Places/Islands.md",
-    "DM Notes/Barony of Emberhold.md",
-    "DM Notes/Mordek Bright-horn 1.md",
-    "DM Notes/Untitled.md",
-    "DM Notes/Weakened Shadowfang Ravager (CR 4).md",
-    "DM Notes/Game World.md",
-    "Lore/Dislikes.md",
-    "DM Notes/NPCS/Lana del Ray.md",
+    "Lore/Organizations/The Order of Hammers.md",
+    "Lore/Organizations/The Empire of Man.md",
+    "Lore/Organizations/Orders.md",
+    "Lore/Organizations/Church of the Overseer.md",
+    "Lore/Organizations/Guild of Nothing.md",
+    "DM Notes/NPCS/Roderik Thorne.md",
+    "DM Notes/NPCS/Riklin.md",
+    "Princess Aelira Valarys.md",
+    "DM Notes/NPCS/Eilon Tohrne.md",
+    "DM Notes/Sessions/סשן 1 - חתונות הן התחלות חדשות.md",
+    "DM Notes/Sessions/Session 1.md",
+    "DM Notes/Players -DM/Thiorin Valfir.md",
+    "DM Notes/Players -DM/Ruthenda Vellarmir (Ruth).md",
+    "Lore/Places/Sharbara.md",
+    "DM Notes/Sessions/סשן 10 - THE GAMES.md",
     "Sources/סשן 7 - המשך-20250119175512978.webp",
     "Sources/סשן 7 - המשך-20250119175408232.webp",
     "DM Notes/Monsters",
