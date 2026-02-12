@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "dadfe9a72462979c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "34f57400b983d52b",
             "type": "leaf",
             "state": {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dc4050be148064df",
+  "active": "dadfe9a72462979c",
   "lastOpenFiles": [
     "DM Notes/NPCS/Roderik Thorne.md",
     "Lore/Organizations/The Merchants of Dusk.md",
