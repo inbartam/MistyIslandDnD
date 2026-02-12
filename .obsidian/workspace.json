@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "e8b3f90f64f18eb8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "dc4050be148064df",
             "type": "leaf",
             "state": {
@@ -59,18 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "סשן 1"
-            }
-          },
-          {
-            "id": "dadfe9a72462979c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
             }
           },
           {
@@ -130,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,8 +278,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dadfe9a72462979c",
+  "active": "dc4050be148064df",
   "lastOpenFiles": [
+    "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "DM Notes/NPCS/Roderik Thorne.md",
     "Lore/Organizations/The Merchants of Dusk.md",
     "Lore/Organizations/Guild of Nothing.md",
@@ -312,7 +289,6 @@
     "Lore/Cassidian Dynasty.md",
     "Lore/Organizations/The Empire of Man.md",
     "Lore/The Gods.md",
-    "Lore/Places/Etheria - The Crown of the Human Empire.md",
     "Lore/Places/Frosthold.md",
     "Sources/Frosthold-20260115165200981.webp",
     "Sources/סשן 1-20260115165146414.webp",
